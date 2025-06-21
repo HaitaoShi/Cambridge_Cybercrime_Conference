@@ -1,0 +1,1492 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				
+				
+				<section data-background="image/Designer.png">
+					<div style="background-color:rgba(0,0,0,0.5); display: inline-block; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); max-width: 90%; text-align: center;">
+						<h1 style="color: #ffffff; font-size: 1.2em; line-height: 1.2; margin-bottom: 20px; font-weight: 500;">
+							Evaluating the Impact of Anonymity on Emotional Expression in Drug-Related Discussions
+						</h1>
+						<h2 style="color: #ffffff; font-size: 0.9em; margin-bottom: 30px; font-weight: 400; opacity: 0.9;">
+							A Comparative Study of the Dark Web and Mainstream Social Media
+						</h2>
+						
+						<div class="author-info" style="margin-top: 40px;">
+							<div style="margin: 1.2em 0;">
+								<h3><a href="https://haitaoac.dpdns.org/" style="color: #ffffff; text-decoration: none; border-bottom: 2px solid rgba(255,255,255,0.3); transition: border-color 0.3s ease; font-size: 0.8em;">Haitao Shi</a></h3>
+							</div>
+							<div style="margin: 1em 0;">
+								<h4 style="color: #ffffff; font-size: 0.7em; font-weight: 400; margin-bottom: 10px;">University of Edinburgh</h4>
+							</div>
+							<div style="margin: 1em 0;">
+								<p style="color: #ffffff; font-size: 0.6em; font-weight: 300; opacity: 0.8;">Cambridge Cybercrime Conference 2025</p>
+							</div>
+						</div>
+					</div>
+				
+				
+				
+				
+				
+				
+				
+				
+				</section>
+				<section>
+					<h2>Presentation Outline</h2>
+					<div class="agenda-container">
+						<ol style="font-size: 1.1em; line-height: 1.6;">
+							<li><strong>Introduction & Literature Review</strong></li>
+							<li><strong>Research Questions</strong></li>
+							<li><strong>Methods</strong></li>
+							<li><strong>Primary Findings</strong></li>
+							<li><strong>Implications for Law Enforcement and Harm Reduction Intervention</strong></li>
+							<li><strong>Conclusion with Comparison</strong></li>
+							<li><strong>Limitations</strong></li>
+						</ol>
+					</div>
+					
+				</section> 
+
+
+
+				<section>
+					<h1>Introduction & Literature Review</h1>
+				</section>
+
+				<section>
+					<h2 style="font-size: 1.2em; margin-bottom: 15px;">Defining Self-Disclosure & Emotional Disclosure</h2>
+					<div style="text-align: left; font-size: 0.65em; line-height: 1.4;">
+						<p><strong style="color: #add8e6;">Self-disclosure:</strong> Voluntary revealing personal information (self, inner states, feelings, opinions). Fulfills needs like sharing, self-awareness, catharsis, and builds intimacy/trust <span style="font-size: 0.85em; color: #aaa;">(Hollenbaugh & Everett, 2013; Clark-Gordon et al., 2019; Mufarreh, 2023).</span></p>
+						<ul style="margin-top: 8px; margin-bottom: 8px;">
+							<li>Dimensions: <strong>Amount(quantity of information shared)</strong>, <strong>Breadth(range of topics discussed)</strong>, <strong>Depth(intimacy or sensitivity of the information revealed)</strong>.</li>
+						</ul>
+						<p style="margin-top: 8px;"><strong style="color: #add8e6;">Emotional disclosure:</strong> focusing on communicating feelings and emotional experiences. Significant for processing experiences, seeking validation, and eliciting empathy <span style="font-size: 0.85em; color: #aaa;">(Malloch et al., 2019).</span></p>
+						<p style="margin-top: 8px;"><em style="color: #FFD700;">Environmental influence:</em> Disclosure patterns are shaped by communication medium, perceived risks, and anonymity levels. While research indicates a willingness to disclose stigmatised conditions (e.g., depression) in supportive online environments<span style="font-size: 0.85em; color: #aaa;">(Moreno et al., 2011)</span>, discussions of illegal activities like drug use may involve greater legal risks, prompting more cautious disclosure behaviours.</p>
+					</div>
+				</section>
+
+
+
+				<section>
+					<h2 style="font-size: 1.2em; margin-bottom: 15px;">The Internet: A Venue for Sensitive Discussions</h2>
+					<div style="text-align: left; font-size: 0.65em; line-height: 1.4; padding: 0 20px;">
+						<p>The internet has become a primary venue for discussing sensitive topics like bipolar disorder<span style="font-size: 0.85em; color: #aaa;">(Jagfeld et al., 2023; Marshall et al., 2024)</span>, depression<span style="font-size: 0.85em; color: #aaa;">(Desjarlais, 2019; Kornfield, 2018; Lotay, 2016)</span>, and experiences with substance use and addiction<span style="font-size: 0.85em; color: #aaa;">(Barratt, 2011; Blankers et al., 2019; Duxbury, 2018; Kornfield et al., 2018)</span>.</p>
+						<h4 style="margin-top: 12px; color: #add8e6; font-size: 1em;">Contributing Factors:</h4>
+						<ul style="margin-top: 5px; list-style-type: square;">
+							<li style="margin-bottom: 5px;"><strong style="color: #FFD700;">Accessibility:</strong> Overcomes geographical limits, connects isolated individuals <span style="font-size: 0.85em; color: #aaa;">(Desjarlais, 2019; Kornfield et al., 2018; Marshall et al., 2024).</span></li>
+							<li style="margin-bottom: 5px;"><strong style="color: #FFD700;">Specialised Communities:</strong> Fosters belonging and shared understanding <span style="font-size: 0.85em; color: #aaa;">(Barratt, 2011; Cho and Wright, 2019; Marshall et al., 2024).</span></li>
+							<li style="margin-bottom: 5px;"><strong style="color: #FFD700;">Asynchronous Nature:</strong> Allows careful formulation of thoughts <span style="font-size: 0.85em; color: #aaa;">(Kornfield et al., 2018).</span></li>
+							<li style="margin-bottom: 5px;"><strong style="color: #FFD700;">Anonymity/Pseudonymity:</strong> Reduces fear of judgment and stigma, especially crucial when in-person support is limited (e.g., pandemics) <span style="font-size: 0.85em; color: #aaa;">(Valdez et al., 2022).</span></li>
+						</ul>
+					</div>
+				</section>
+
+
+
+				<section>
+					<h2 style="font-size: 1.1em; margin-bottom: 20px;">Anonymity's Role in Sensitive Disclosure</h2>
+					<div style="display: flex; align-items: flex-start; gap: 25px; padding: 0 15px; height: 75vh;">
+						<div style="flex: 1; text-align: left; font-size: 0.65em; line-height: 1.3; display: flex; flex-direction: column; justify-content: center; height: 100%;">
+							<p style="margin-bottom: 12px; font-size: 1.1em;">Anonymity/pseudonymity online facilitates self-disclosure on sensitive topics by:</p>
+							<ul style="margin: 0; list-style-type: square; padding-left: 20px;">
+								<li style="margin-bottom: 10px;"><strong>Reducing perceived risks</strong> (social judgement, reputational damage, legal repercussions) <span style="font-size: 0.9em; color: #aaa;">(Barratt, 2011; Cho and Wright, 2019; Kornfield, 2018; Lotay, 2016)</span></li>
+								<li style="margin-bottom: 10px;"><strong>Reduced face-to-face restrictions</strong> <span style="font-size: 0.9em; color: #aaa;">(Desjarlais, 2019; Ibrahim et al., 2022)</span></li>
+								<li style="margin-bottom: 0;"><strong>"Stranger on a train" effect</strong> <span style="font-size: 0.9em; color: #aaa;">(Hollenbaugh and Everett, 2013, p. 283)</span></li>
+							</ul>
+						</div>
+						<div style="flex: 1; text-align: center; display: flex; align-items: center; justify-content: center; height: 100%;">
+							<img src="image/disinhibition.png" alt="Online Disinhibition Effect" style="max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+						</div>
+					</div>
+				</section>
+
+
+
+
+
+
+				<section>
+					<h2 style="font-size: 1.3em; margin-bottom: 20px;">The Multifaceted of Anonymity</h2>
+					<div style="text-align: left; font-size: 0.55em; line-height: 1.1; padding: 0 15px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 5px;">
+							<div style="background-color: rgba(173,216,230,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #add8e6;">
+								<h4 style="color: #add8e6; margin-bottom: 3px; font-size: 0.9em;">Visual Anonymity</h4>
+								<p style="margin-bottom: 3px;">Invisibility increases self-disclosure <span style="color: #aaa;">(Suler,2004)</span></p>
+								<p style="margin: 0;color: #add8e6;"><strong>Paradox:</strong> Visually identified bloggers disclosed more information <span style="color: #aaa;">(Hollenbaugh & Everett, 2013)</span></p>
+								<p style="margin: 0;"><strong>Limitation:</strong> Hinders trust formation <span style="color: #aaa;">(Campbell & Wright, 2002)</span></p>
+							</div>
+							
+							<div style="background-color: rgba(255,215,0,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #FFD700;">
+								<h4 style="color: #FFD700; margin-bottom: 3px; font-size: 0.9em;">Discursive Anonymity</h4>
+								<p style="margin-bottom: 3px;">Real names reduce offensive language <span style="color: #aaa;">(Omernick & Sood, 2013)</span></p>
+								<p style="margin: 0;color: #FFD700;"><strong>Chinese Forum:</strong> Less anonymous users produced more content <span style="color: #aaa;"> (Wallin, 2014).</span></p>
+								<p style="margin: 0;"><strong>Motivation Effect: </strong> High anonymity can discourage contributions <span style="color: #aaa;">  (Cho & Acquisti, 2013).</span></p>
+							</div>
+						</div>
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 5px;">
+							<div style="background-color: rgba(144,238,144,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #90EE90;">
+								<h4 style="color: #90EE90; margin-bottom: 3px; font-size: 0.9em;">Perceived Anonymity</h4>
+								<p style="margin-bottom: 3px;">Subjective feeling of identifiability <span style="color: #aaa;">(Yun, 2006)</span></p>
+								<p style="margin: 0;color: #90EE90;"><strong>Social Information Processing theory:</strong> higher perceived anonymity might decrease public disclosure, as it can hinder the development of interpersonal connections <span style="color: #aaa;">(Yun, 2006)</span></p>
+								<p style="margin: 0;"><strong>Context-dependent:</strong> Varies by platform purpose</p>
+							</div>
+							
+							<div style="background-color: rgba(255,182,193,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #FFB6C1;">
+								<h4 style="color: #FFB6C1; margin-bottom: 3px; font-size: 0.9em;">Technical vs. Social</h4>
+								<p style="margin-bottom: 3px;"><strong>Technical:</strong> System features</p>
+								<p style="margin: 0;color: #FFB6C1;"><strong>Social Identity Model of Deindividuation Effects: </strong>  anonymity can strengthen group cohesion, foster adherence to community norms (e.g., harm reduction practices), and encourage identity expression aligned with the group <span style="color: #aaa;">(Soussan, 2018)</span></p>
+							</div>
+						</div>
+				</section>
+
+				
+
+
+
+
+				<section>
+					<h2 style="font-size: 1.1em; margin-bottom: 15px;">The Dual Nature of Anonymity's Impact on Emotional Expression</h2>
+					<div style="text-align: left; font-size: 0.6em; line-height: 1; padding: 0 15px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 20px;">
+							<div style="background-color: rgba(255,69,69,0.1); padding: 15px; border-radius: 8px; border-left: 4px solid #FF4545;">
+								<h4 style="color: #FF6B6B; margin-bottom: 8px; font-size: 1.1em;">General Online Environments</h4>
+								<p style="margin-bottom: 8px; font-weight: bold;">↑ Disinhibited Negative Expression</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em;">
+									<li>More critical comments</li>
+									<li>Increased swear words & anger</li>
+									<li>Overall negativity compared to identified comments</li>
+									<li>Platforms shifting to identified systems saw ↓ negative comments <span style="color: #aaa;">(Omernick & Sood, 2013)</span></li>
+								</ul>
+							</div>
+							
+							<div style="background-color: rgba(72,187,120,0.1); padding: 15px; border-radius: 8px; border-left: 4px solid #48BB78;">
+								<h4 style="color: #68D391; margin-bottom: 8px; font-size: 1.1em;">Support Communities</h4>
+								<p style="margin-bottom: 8px; font-weight: bold;">↑ Vulnerable Emotional Disclosure</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em;">
+									<li>Open discussion of anxiety, sadness, distress</li>
+									<li>Seeking empathy and support <span style="color: #aaa;">(Lotay, 2016)</span></li>
+									<li>Reddit mental health subreddits show more vulnerability <span style="color: #aaa;">(Jagfeld et al., 2023)</span></li>
+									<li>Creates safe space for help-seeking</li>
+								</ul>
+							</div>
+						</div>
+						
+						<div style="margin-top: 20px; background-color: rgba(255,215,0,0.1); padding: 15px; border-radius: 8px; border: 2px solid #FFD700;">
+							<h4 style="color: #FFD700; margin-bottom: 8px; font-size: 1.1em;">Key Insight:</h4>
+							<p style="font-style: italic; margin: 0; font-size: 1em;">Context and user intent are critical. Anonymity may disinhibit negativity in public forums, but in supportive environments, it primarily creates safe spaces for vulnerability. <strong style="color: yellow;">Platform purpose and community norms strongly shape how anonymity influences emotional disclosure.</strong></p>
+						</div>
+					</div>
+				</section>
+
+
+
+				<section>
+					<h1>Research Questions</h1>
+				</section>
+
+				<section>					
+					<div class="research-questions">
+						<h3>Primary Research Questions</h3>
+						<ol style="font-size: 0.65em; line-height: 1.4;">
+							<li>How do different models of anonymity—<strong>pseudonymity on Telegram versus technical anonymity on Dread</strong>—shape the <strong>function and intensity</strong> of emotional expression in discussions of sensitive topics?</li>
+							<li>What distinct <strong>communication styles</strong> emerge on pseudonymous and anonymous platforms, and how are these styles adapted to serve specific community functions, such as <strong>identity formation, transactional efficiency, and harm reduction</strong>?</li>
+							<li>How do the <strong>emotional landscapes</strong> of drug-related discussions differ between a pseudonymous social platform (Telegram) and an anonymous marketplace forum (Dread), particularly concerning <strong>trust, hostility, and vulnerability</strong>?</li>
+							<li>In what ways can the analysis of <strong>emotional signatures and adaptive communication patterns</strong> on these platforms provide <strong>actionable intelligence</strong> for law enforcement and targeted strategies for <strong>harm reduction interventions</strong>?</li>
+						</ol>
+					</div>
+					
+				</section> 
+
+
+				<section>
+					<h1>Methods</h1>
+					<ul>
+						<li>Datasets: Telegram & Dread</li>
+						<li>Data Preparation</li>
+						<li>Topic & Emotion Analysis</li>
+					</ul>
+				</section>
+
+				
+				<section>
+					<h1>Datasets Used</h1>
+					<ul>
+						<li>crimebb-dread-2023-06-21 (446 boards, 75,122 threads, and 294,596 posts)</li>
+						<li>telegram-2023-03-24 (416 channels with 9,787,885 messages and 4,071,094 replies)</li>
+					</ul>
+				</section>
+
+
+				
+
+
+				<section data-background="image/telegram.jpg">
+					<div style="background-color: rgba(0,0,0,0.6); padding: 40px !important; border-radius: 10px; max-width: 90%; margin: auto;">
+						<h1 style="color: white; font-size: 1.2em; margin-bottom: 10px; line-height: 1.2;">Identifying Channels with Drug-Related Discussions in Telegram</h1>
+						<div style="text-align: left; font-size: 0.7em; line-height: 1.3; color: white;">
+							<h3 style="color: #FFD700; margin-bottom: 12px; font-size: 1.1em;">Challenge:</h3>
+							<ul style="margin-bottom: 25px; font-size: 0.8em; color: white;">
+								<li>Which of the 416 Telegram channels scraped are drug-related? </li>
+							</ul>
+							<h3 style="color: #FFD700; margin-bottom: 12px; font-size: 1.1em;">Solution:</h3>
+							<ul style="margin-bottom: 25px; font-size: 0.8em; color: white;">
+								<li>Comprehensive Drug Terminology Collation through web scraping</li>
+								<li>Employed regular expression to match messages against compiled drug-related terms</li>
+								<li>Word Frequency Analysis and Channel Identification</li>
+							</ul>
+							<h3 style="color: #FFD700; margin-bottom: 12px; font-size: 1.1em;">Drug discussion channels:</h3>
+							<ul style="margin-bottom: 25px; font-size: 0.8em; color: white;">
+								<li> Kiwifarms Transit Commission (id: -1001216292998)
+								</li>
+								<li> 800,142 posts after data cleaning (URLs, empty content, duplicates removed)</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+
+
+				<section>
+					<h3 style="color: #ffffff; text-shadow: 0 0 10px #ffffff;">Drug Terminology.csv</h3>
+					<img src="image/drug_term.jpeg" alt="drug_term" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+				</section>
+
+
+
+
+				<section data-background="image/benjamin.jpg">
+					<div style="background-color: rgba(0,0,0,0.5); padding: 40px !important; border-radius: 10px; max-width: 90%; margin: auto;">
+						<h3 style="color: white; font-size: 40px !important;">Dread forum</h3>
+						<ul style="font-size: 28px !important; color: white;">
+							<ul>
+								<li><a href="http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/page/about/" style="color: #add8e6;">What is Dread:</a> Onion-based free speech platform and forum with Reddit-like UI (launched on 16th Feb 2018)</li>
+								<li><a href="http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/page/rules/" style="color: #add8e6;">Forbidden topics:</a> 
+									Child pornography,
+									Pro-terrorism or terrorist propaganda,
+									Harmful weapons/weapons of mass destruction,
+									Poisons,
+									Assassination services or media related to harm/murder.</li>
+								<li><a href="http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/page/privacy/" style="color: #add8e6;">Anonymity & Privacy:</a>
+									<ul style="font-size: 22px;">
+										<li><strong>Secure Data Deletion:</strong>
+											<ul style="font-size: 20px;">
+												<li>Multi-pass wipes ensure data is completely cleared</li>
+												<li>Deleted data is largely unrecoverable, even with backups</li>
+											</ul>
+										</li>
+										<li><strong>User-Controlled Encryption:</strong>
+											<ul style="font-size: 20px;">
+												<li>Optional PGP verification for secure user-to-user messaging</li>
+												<li>Strong advocacy for client-side encryption (safest method, avoids third-party trust)</li>
+											</ul>
+										</li>
+										<li><strong>Technical Safeguards:</strong>
+											<ul style="font-size: 20px;">
+												<li>No JavaScript: Enhances security and educates users on good practices</li>
+												<li>Stronger Password Hashing & obfuscation of sensitive database tables</li>
+												<li>Minimal Session Tracking: Single, secure cookie, regenerated on each logout</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</div>
+					<div class="r-stack" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+						<img class="fragment" src="image/WhatisDread.jpg" alt="WhatisDread" style="max-width: 120%; transform: rotate(-20deg) translateX(-25%);">
+						<img class="fragment" src="image/DreadRules.jpg" alt="DreadRules" style="max-width: 120%;">
+						<img class="fragment" src="image/DreadPrivacy.jpg" alt="DreadPrivacy" style="max-width: 120%; transform: rotate(20deg) translateX(25%);">
+					</div>
+					<div style="position: absolute; bottom: 10px; right: 10px; font-size: 12px; color: white;">
+						<a href="https://unsplash.com/photos/woman-in-black-dress-illustration-mnYSDdwunVY" target="_blank" style="color: yellow;">Photo by Benjamin Lehman on Unsplash</a>
+					</div>
+				</section>
+
+				<section>
+					<img src="image/Data_Preparation.png" alt="Data_Preparation" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+				</section>
+
+
+
+				<section>
+					<img src="image/BerTopic_Operation.png" alt="BerTopic Operation" style="max-width: 120%; max-height: 130%; object-fit: contain; display: block; margin: 0 auto; transform: translateX(-8%);">
+				</section>
+				
+				<section>
+					<img src="image/Why_BerTopic.png" alt="Why_BerTopic" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+				</section>
+
+				<section>
+					<img src="image/Model_Selection.png" alt="Model_Selection" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+				</section>
+
+
+
+				<section>
+					<h3>Configuring Custom Topic Names for Data Analysis</h3>
+					<img src="image/TopicConfiguration.png" alt="TopicConfiguration" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+				</section>
+
+
+
+
+
+
+				<section>
+					<div style="position: relative; width: 100%; height: 800px;overflow: visible;">
+						<iframe src="visualisation/Intertopic_Distance_Map.html" 
+							width="100%" 
+							height="800px" 
+							style="border:none; position: absolute; left: 60%; top: 0; transform: translateX(-50%);">
+						</iframe>
+					</div>
+				</section>
+
+
+				
+				<section>
+					<div style="position: relative; width: 100%; height: 800px; overflow: visible;">
+						<iframe src="visualisation/documents_Topics.html" 
+							width="120%" 
+							height="800px" 
+							style="border:none; position: absolute; left: 50%; top: 0; transform: translateX(-50%); max-width: none;">
+						</iframe>
+					</div>
+				</section>
+
+
+				<section>
+					<div style="position: relative; width: 100%; height: 800px; overflow: visible;">
+						<iframe src="visualisation/hierarchical_topics.html" 
+							width="120%" 
+							height="800px" 
+							style="border:none; position: absolute; left: 50%; top: 0; transform: translateX(-50%); max-width: none;">
+						</iframe>
+					</div>
+				</section>
+
+				<section>
+					<h3>Topic Tree from Dread (n=228)</h3>
+					<div style="position: relative; width: 100%; height: 700px; overflow: hidden;">
+						<iframe src="visualisation/Topictree.txt" 
+							width="100%" 
+							height="700px" 
+							style="border: 1px solid #ccc; background-color: #f9f9f9; font-family: monospace;">
+						</iframe>
+					</div>
+				</section>
+
+				<section>
+					<h3>Topic Tree from Telegram (n=305)</h3>
+					<div style="position: relative; width: 100%; height: 700px; overflow: hidden;">
+						<iframe src="visualisation/Topictree_Telegram.txt" 
+							width="100%" 
+							height="700px" 
+							style="border: 1px solid #ccc; background-color: #f9f9f9; font-family: monospace;">
+						</iframe>
+					</div>
+				</section>
+
+				
+				<section>
+					<h3>Why Emotion Detection?</h3>
+					<img src="image/EmotionDetection.jpg" alt="EmotionDetection" style="max-width: 110%; max-height: 110%; object-fit: contain;">
+				</section>
+
+				<section data-background="image/Basic_emotions.jpg">
+					<div style="background-color: rgba(0,0,0,0.6); padding: 40px; border-radius: 15px; max-width: 80%; margin: 0 auto;">
+						<h2 style="color: #ffffff; margin-bottom: 30px; text-shadow: 0 2px 4px rgba(0,0,0,0.5); font-size: 1.8em; text-align: center;">Paul Ekman's Six Basic Emotions</h2>
+						<div style="display: flex; gap: 40px; justify-content: center; font-size: 1em; line-height: 1.6; color: #ffffff;">
+							<div style="flex: 1;">
+								<ul style="list-style-type: none; padding: 0; margin: 0;">
+									<li style="margin-bottom: 12px; padding: 10px 15px; background-color: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+										<strong style="color: #FFD700;">Happiness</strong>
+									</li>
+									<li style="margin-bottom: 12px; padding: 10px 15px; background-color: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #87CEEB;">
+										<strong style="color: #87CEEB;">Sadness</strong>
+									</li>
+									<li style="margin-bottom: 12px; padding: 10px 15px; background-color: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #9370DB;">
+										<strong style="color: #9370DB;">Fear</strong>
+									</li>
+								</ul>
+							</div>
+							<div style="flex: 1;">
+								<ul style="list-style-type: none; padding: 0; margin: 0;">
+									<li style="margin-bottom: 12px; padding: 10px 15px; background-color: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #90EE90;">
+										<strong style="color: #90EE90;">Disgust</strong>
+									</li>
+									<li style="margin-bottom: 12px; padding: 10px 15px; background-color: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FF6B6B;">
+										<strong style="color: #FF6B6B;">Anger</strong>
+									</li>
+									<li style="margin-bottom: 12px; padding: 10px 15px; background-color: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFA500;">
+										<strong style="color: #FFA500;">Surprise</strong>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div style="position: absolute; bottom: -30px; right: -30px; font-size: 12px; color: #ffffff; background-color: rgba(0,0,0,0.7); padding: 6px 10px; border-radius: 5px; z-index: 100;">
+						<a href="https://unsplash.com/photos/orange-and-white-egg-on-stainless-steel-rack-auEPahZjT40" target="_blank" style="color: #add8e6; text-decoration: none;">Photo by Oner Mopo3 on Unsplash</a>
+					</div>
+				</section>
+
+
+
+				<section>
+					<img src="image/Emotion_Models.png" alt="Emotion_Models" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+				</section>
+
+
+
+
+
+				
+				<section>
+					<h4>Sam Lowe's model</h4>
+					<div style="position: relative; max-width: 90%; height: 80vh; margin: 0 auto; overflow-y: auto; overflow-x: hidden; border: 2px solid #333; border-radius: 10px; background-color: #f9f9f9; padding: 10px;">
+						<img src="image/samLowe.png" alt="topic3_ Dark Web Drug Investigations [DarkNetMarkets_ 33.47%]_emotions" style="width: 100%; height: auto; min-height: 150vh; object-fit: contain; display: block;">
+					</div>
+				</section>
+
+
+
+
+
+				<section>
+					<h3>Cardiff University model</h3>
+					<img src="image/topic3 Dark Web Drug Investigations.png" alt="topic3_ Dark Web Drug Investigations [DarkNetMarkets_ 33.47%]_emotions" style="max-width: 90%; max-height: 80vh; object-fit: contain; display: block; margin: 0 auto;">
+				</section>
+
+
+
+
+				
+
+
+				<section>
+					<h1>Primary findings from the telegram channel</h1>
+				</section>
+
+				<section>
+					<div style="text-align: left; font-size: 0.55em; line-height: 1.0; padding: 0 20px;">
+						<h4 style="color: #ffffff; margin-bottom: 8px; font-size: 1.3em; text-align: center;">Pseudonymity as a Catalyst for Emotional Disinhibition</h4>
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 18px; margin-top: 8px;">
+							<div style="background-color: rgba(255,69,69,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #FF4545;">
+								<p style="margin: 2px 0; font-weight: bold; color: #FF6B6B; font-size: 1.0em;">1. Explicit Hate Speech & Slurs <span style="color: #FFB6C1; font-size: 0.85em;">(High Disgust + Anger)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic0_Racial Slurs & Hate Speech</li>
+									<li>topic1_Anti-transgender hate speech</li>
+									<li>topic21_Harmful homophobic slurs</li>
+								</ul>
+
+								<p style="margin: 6px 0 2px 0; font-weight: bold; color: #FF6B6B; font-size: 1.0em;">2. Targeted Harassment & Doxing <span style="color: #FFB6C1; font-size: 0.85em;">(High Disgust + Anger + Sadness)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic59_Doxing and Personal Information</li>
+									<li>topic171_Harmful Reporting & Slurs</li>
+									<li>topic208_Cyberbullying & Bullying Behavior</li>
+								</ul>
+							</div>
+							
+							<div style="background-color: rgba(255,140,0,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #FF8C00;">
+								<p style="margin: 2px 0; font-weight: bold; color: #FF8C00; font-size: 1.0em;">3. Extremely Taboo/Illegal Content <span style="color: #FFD700; font-size: 0.85em;">(High Disgust + Anger + Fear)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic213_Grooming & Child Exploitation</li>
+									<li>topic152_Sexual Assault & Violence</li>
+									<li>topic68_Pedophile Accusations & Discussion</li>
+								</ul>
+
+								<p style="margin: 6px 0 2px 0; font-weight: bold; color: #FF8C00; font-size: 1.0em;">4. Severe Self-Harm & Mental Health <span style="color: #FFD700; font-size: 0.85em;">(High Sadness + Disgust/Pessimism)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic122_ Suicidal thoughts and death wishes</li>
+									<li>topic284_ Mental Illness Discussion</li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(173,216,230,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #add8e6;">
+								<p style="margin: 2px 0; font-weight: bold; color: #add8e6; font-size: 1.0em;">5. Extremist Ideologies <span style="color: #87CEEB; font-size: 0.85em;">(High Disgust + Anger)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic162_4chan & Online Extremism</li>
+									<li>topic85_Incel Community & Identity</li>
+									<li>topic65_Adolf Hitler and Nazism</li>
+								</ul>
+
+								<p style="margin: 6px 0 2px 0; font-weight: bold; color: #add8e6; font-size: 1.0em;">6. Bodily Objectification & Fetishism <span style="color: #87CEEB; font-size: 0.85em;">(High Disgust + Anger)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic76_Female breasts & anatomy</li>
+									<li>topic118_ Feet pics and fetish</li>
+								</ul>
+
+								<p style="margin: 6px 0 2px 0; font-weight: bold; color: #add8e6; font-size: 1.0em;">7. Explicit Drug Use Discussions <span style="color: #87CEEB; font-size: 0.85em;">(High Disgust + Anger + Sadness)</span></p>
+								<ul style="margin: 2px 0; padding-left: 8px; font-size: 0.9em;">
+									<li>topic6_ Illicit Drugs & Substance Use</li>
+								</ul>
+							</div>
+						</div>
+						
+					</div>
+				</section>
+			
+
+
+				<section>
+					<h2 style="font-size: 1.0em; margin-bottom: 15px;">Communication Style Adaptation in Pseudonymous Platforms (telegram)</h2>
+					<div style="text-align: left; font-size: 0.52em; line-height: 1.1; padding: 0 8px;">
+						<p style="margin-bottom: 8px; font-size: 1.1em; color: #FFD700; font-weight: bold;">How users adapt communication styles based on platform anonymity:</p>
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 8px;">
+							<div style="background-color: rgba(173,216,230,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #add8e6;">
+								<h4 style="color: #add8e6; margin-bottom: 4px; font-size: 1.0em;">Meme-Driven Lexicon Development</h4>
+								<p style="margin-bottom: 4px; font-size: 0.95em;">Information-dense shortcuts via subcultural slang:</p>
+								<ul style="margin: 0; list-style-type: disc; font-size: 0.85em; padding-left: 10px;">
+									<li style="margin-bottom: 2px;"><strong>topic46_ Sneed and Sneedchat Memes</strong>(disgust)</li>
+									<li style="margin-bottom: 2px;"><strong>topic71_Based Culture & Internet Slang</strong>(optimism)</li>
+									<li><strong>topic221_ Kek & Internet Slang</strong>(disgust)</li>
+								</ul>
+								<p style="margin: 3px 0 0 0; font-size: 0.8em; font-style: italic; color: #87CEEB;">Single words convey complex ideology & emotional stance</p>
+							</div>
+							
+							<div style="background-color: rgba(255,69,69,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #FF4545;">
+								<h4 style="color: #FF6B6B; margin-bottom: 4px; font-size: 1.0em;">Weaponised Language Style</h4>
+								<p style="margin-bottom: 4px; font-size: 0.95em;">Deliberate dehumanising communication:</p>
+								<ul style="margin: 0; list-style-type: disc; font-size: 0.85em; padding-left: 10px;">
+									<li style="margin-bottom: 2px;">Signal identity & allegiance</li>
+									<li style="margin-bottom: 2px;">Dehumanise targets</li>
+									<li>Enforce in-group norms</li>
+								</ul>
+								<p style="margin: 3px 0 0 0; font-size: 0.8em; font-style: italic; color: #FFB6C1;">Examples: topic0, topic1, topic28, topic111 (slur topics)</p>
+							</div>
+						</div>
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 8px;">
+							<div style="background-color: rgba(255,215,0,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #FFD700;">
+								<h4 style="color: #FFD700; margin-bottom: 4px; font-size: 1.0em;">Emotional Shorthand for Distress</h4>
+								<p style="margin-bottom: 4px; font-size: 0.95em;">Vulnerability expressed through in-group understanding:</p>
+								<ul style="margin: 0; list-style-type: disc; font-size: 0.85em; padding-left: 10px;">
+									<li style="margin-bottom: 2px;"><strong>topic13_lonely, hurting, friendless:</strong>(disgust/anger/sadness)</li>
+									<li style="margin-bottom: 2px;"><strong>topic122_Suicidal thoughts and death wishes:</strong>(sadness/disgust/anger/pessimism/fear)</li>
+									<li style="margin-bottom: 2px;"><strong>topic284_Mental Illness Discussion:</strong>(disgust/sadness/anger)</li>
+								</ul>
+								<p style="margin: 3px 0 0 0; font-size: 0.8em; font-style: italic; color: #F0E68C;">Signals shared experience within community</p>
+							</div>
+							
+							<div style="background-color: rgba(144,238,144,0.1); padding: 8px; border-radius: 5px; border-left: 3px solid #90EE90;">
+								<h4 style="color: #90EE90; margin-bottom: 4px; font-size: 1.0em;">Intensification of In-Group Emotions
+								</h4>
+								<p style="margin-bottom: 4px; font-size: 0.95em;">In-group slang & affirmation create positive feedback loops:</p>
+								<ul style="margin: 0; list-style-type: disc; font-size: 0.85em; padding-left: 10px;">
+									<li style="margin-bottom: 2px;"><strong>topic248_Yep Checks & Affirmations</strong>(optimism/joy)</li>
+									<li style="margin-bottom: 2px;"><strong>topic39_Variations of "lol"</strong>(joy/optimism)</li>
+									<li style="margin-bottom: 2px;"><strong>topic139_Thanks Fren & Variations</strong>(joy/optimism)</li>
+									<li style="margin-bottom: 2px;"><strong></strong>(joy/optimism)</li>
+								</ul>
+								<p style="margin: 3px 0 0 0; font-size: 0.8em; font-style: italic; color: #98FB98;">Simple repetitive low-effort affirmation is the conversational glue of the community.</p>
+							</div>
+						</div>
+						
+						
+				</section>
+
+
+				<section>
+					<h3> The key topic from the telegram channel</h3>
+					<img src="image/topic6_ Illicit Drugs & Substance Use_emotions.png" alt="topic3_ Dark Web Drug Investigations [DarkNetMarkets_ 33.47%]_emotions" style="max-width: 90%; max-height: 80vh; object-fit: contain; display: block; margin: 0 auto;">
+				</section>
+
+
+
+
+
+
+				<section>
+					<h4 style="font-size: 1.0em; margin-bottom: 15px; text-align: center;">Disgust & Anger: Fueling a Hostile Environment</h4>
+					<div style="text-align: left; font-size: 0.48em; line-height: 1.2; padding: 0 10px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 10px;">
+							
+							<div style="background-color: rgba(255,69,69,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF4545;">
+								<h5 style="color: #FF6B6B; margin-bottom: 8px; font-size: 1.1em;">Pseudonymity as a Disinhibitor</h5>
+								<p style="margin-bottom: 8px; font-weight: bold; font-size: 1.0em;">Unfiltered Judgment & Hostility:</p>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Pseudonymity facilitates raw, aggressive, and derogatory language without fear of social repercussions.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"Cringe kys can't follow a routine and delay gratification so you down drugs like an immature child"</span></li>
+									<li><span style="font-style: italic;">"Redneck like you do the most, go do some heroine in a trailer park, druggie white trash 🤣🤣😩"</span></li>
+								</ul>
+								<p style="margin-top: 12px; margin-bottom: 8px; font-weight: bold; font-size: 1.0em;">Default Stance of Distrust:</p>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">A pervasive sense of cynicism and skepticism dominates interactions, eroding any potential for trust.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"Imagine injecting yourself with whatever the fuck concoction based on 'trust me, bro'"</span></li>
+									<li><span style="font-style: italic;">"That's why retards like you always fuck up buying meth on tor kek"</span></li>
+								</ul>
+							</div>
+				
+							<div style="background-color: rgba(255,140,0,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF8C00;">
+								<h5 style="color: #FF8C00; margin-bottom: 8px; font-size: 1.1em;">Platform Features as Amplifiers</h5>
+								<p style="margin-bottom: 8px; font-weight: bold; font-size: 1.0em;">Confrontational by Design:</p>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Telegram's rapid-fire group chat format and direct replies encourage impulsive, emotionally charged statements and fuel confrontational exchanges. The prevalence of slurs suggests moderation does not heavily restrict this type of speech.</p>
+								<p style="margin-top: 12px; margin-bottom: 8px; font-weight: bold; font-size: 1.0em;">No Accountability, No Trust:</p>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Lack of verifiable identity or reputation systems (darknet forums often have reputation scores) removes accountability. The primary "reward" is provoking reactions rather than fostering understanding.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"you have a laughable caricature in your head of what someone who isn't a druggy lives like, retard"</span> (Direct, insulting reply).</li>
+								</ul>
+							</div>
+						</div>
+				
+				
+					</div>
+				</section>
+
+				<section>
+					<h4 style="font-size: 1.0em; margin-bottom: 15px; text-align: center;">Disgust & Anger: Warped Communication Themes</h4>
+					<div style="text-align: left; font-size: 0.48em; line-height: 1.2; padding: 0 10px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 10px;">
+							
+							<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Harm Reduction as Condemnation</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Advice is not empathetic, but fueled by revulsion at dire outcomes and delivered as harsh, moralistic warnings.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"somebody will get hentanyl overdose"</span></li>
+									<li><span style="font-style: italic;">"You are injecting yourself to death and you will die badly"</span></li>
+								</ul>
+							</div>
+				
+							<div style="background-color: rgba(255,182,193,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFB6C1;">
+								<h5 style="color: #FFB6C1; margin-bottom: 8px; font-size: 1.1em;">"Support" as Shared Outrage</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Positive support is replaced by judgment, condemnation, and bleak bonding over shared negative experiences or outrage.</p>
+								 <ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"It's a choice to be a druggie. Why should they be hand held through their poor life choices...?"</span></li>
+									<li><span style="font-style: italic;">"❤️ its alright, i stayed safe when i was one and im blessed to work w/ people in recovery. i just get so upset/angry at people still using"</span> </li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(255,215,0,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFD700;">
+								<h5 style="color: #FFD700; margin-bottom: 8px; font-size: 1.1em;">Disclosure through Disgust</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Users disclose personal experiences, often negative ones, through the lens of self-directed disgust or contempt for their past associations.</p>
+								 <ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"I was never meant for hard drug life... Too much stomach churning shamelessness. Too stressful for me."</span></li>
+									<li><span style="font-style: italic;">"weed smokers are the worst... i just looked at myself and stopped... all my friends from that time... well, we're not friends anymore"</span></li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+								<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Self-Disclosure as Weapon</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Personal stories are used to attack others, as confessions of self-disgust, or as a form of dark bravado rather than to build connection.</p>
+								 <ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"i turned into a pretty degenerate junkie for about 5 months til i got help b/c i was a mess"(Seizing the moral low ground)</span></li>
+									<li><span style="font-style: italic;">"I sucked dick for cocaine"</span> (Shocking disclosure as performative aggression).</li>
+								</ul>
+							</div>
+						</div>				
+					</div>
+				</section>
+
+
+
+				<section>
+					<h4 style="font-size: 1.0em; margin-bottom: 15px; text-align: center;">Sadness: A Key Driver of Disclosure</h4>
+					<div style="text-align: left; font-size: 0.48em; line-height: 1.2; padding: 0 10px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 10px;">
+							
+							<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Vulnerability & Regret</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Anonymity enables raw expressions of sadness, regret over past actions, and their lasting consequences.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"I think I fried my brain with ADHD meds. 4 months off and every day is a struggle still."</span></li>
+									<li><span style="font-style: italic;">"Yes I had one I was a heroin addict... I so regret it..."</span></li>
+								</ul>
+							</div>
+				
+							<div style="background-color: rgba(255,182,193,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFB6C1;">
+								<h5 style="color: #FFB6C1; margin-bottom: 8px; font-size: 1.1em;">Harm Reduction Fuelled by Loss</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Sad experiences, like losing friends, motivate users to share advice to prevent others from suffering the same fate.</p>
+								 <ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"two of my best friends died from heroin overdose"</span> (followed by warnings about fentanyl).</li>
+									<li><span style="font-style: italic;">"don't take them on an empty stomach. even if you take pills that protect the stomach. you will suffer."</span></li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(255,215,0,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFD700;">
+								<h5 style="color: #FFD700; margin-bottom: 8px; font-size: 1.1em;">Support Seeking through Shared Sorrow</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Users disclose painful experiences to find empathy and connection from others with similar struggles.</p>
+								 <ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"My medication isn't working anymore"</span></li>
+									<li><span style="font-style: italic;">"Yeah it sucks man, I wonder what would have happened had he found the right miracle drug..."</span></li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+								<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Trust in Anonymity, Distrust in Scene</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Users trust the platform for disclosure but express deep sadness and distrust about the drug market's dangers.</p>
+								 <ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"I spent my entire late teens and 20s on opiates... I am terrified of dying when my kids are young."</span></li>
+									<li><span style="font-style: italic;">"literally any street drug you can get right now either has or is fentanyl and you will die fast"</span></li>
+								</ul>
+							</div>
+						</div>				
+					</div>
+				</section>
+
+
+				
+
+				<section>
+					<h4 style="font-size: 1.0em; margin-bottom: 15px; text-align: center;">Joy & Optimism: A Double-Edged Sword of Positivity</h4>
+					<div style="text-align: left; font-size: 0.48em; line-height: 1.2; padding: 0 10px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 10px;">
+							
+							<div style="background-color: rgba(255,215,0,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFD700;">
+								<h5 style="color: #FFD700; margin-bottom: 8px; font-size: 1.1em;">Uninhibited Pleasure & Defiance</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Anonymity allows users to openly express excitement, pleasure, and a defiant attitude towards drug use without fear of judgement.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"I am going to smoke crystal meth tomorrow and pretty excited about it"</span></li>
+									<li><span style="font-style: italic;">"Feels good man."</span></li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+								<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Camaraderie & Shared Identity</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Joy is derived from a sense of belonging and mutual validation, creating a community built on shared, often stigmatised, experiences.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"❤️ i support healthy drug use, you are valid ❤️"</span></li>
+									<li><span style="font-style: italic;">"Yeah it's all about balance and finding what works for you."</span></li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Hope for Positive Outcomes</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">A strong sense of optimism is tied to the belief in the positive or therapeutic potential of substances, fuelling future use and exploration.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"i've always loved doing acid and shrooms because it feels like it unlocks a part of your mind"</span></li>
+									<li><span style="font-style: italic;">"i think with the right settings and whatnot, psychedelics could be useful"</span></li>
+								</ul>
+							</div>
+
+							<div style="background-color: rgba(255,182,193,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFB6C1;">
+								<h5 style="color: #FFB6C1; margin-bottom: 8px; font-size: 1.1em;">Belief in Harm Reduction & Recovery</h5>
+								<p style="font-size: 0.9em; margin-bottom: 5px;">Users express a firm belief in the effectiveness of harm reduction and celebrate recovery, framing both as achievable, positive goals.</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><span style="font-style: italic;">"Congratulations on 2 years drug free! proud of him"</span></li>
+									<li><span style="font-style: italic;">"i am clean of all fun drugs... but i am very supportive of harm reduction"</span></li>
+								</ul>
+							</div>
+						</div>				
+					</div>
+				</section>
+
+
+
+				<section>
+					<h1>Primary findings from Dread forum</h1>
+				</section>
+
+				<section>
+					<div style="width: 110%; margin-left: -5%;">
+						<h4 style="font-size: 0.9em; margin-bottom: 15px; text-align: center;">Dread: Emotional Landscape of Market Transactions & Harm Reduction</h4>
+						<div style="text-align: left; font-size: 0.42em; line-height: 1.2; padding: 0 10px;">
+							<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-top: 10px;">
+								
+								<div style="background-color: rgba(255,69,69,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF4545;">
+									<h5 style="color: #FF6B6B; margin-bottom: 8px; font-size: 1.1em;">Theme: The Fallout from Bad Deals & Dangerous Products</h5>									
+																								<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+							<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Anger, Disgust, Sadness.</p>
+									
+									
+
+																	<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #FF6B6B;">Drug-Specific Examples:</h6>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #FF6B6B;">
+									<li><strong>topic77_Ziploc_ Fake Xanax & Scams:</strong> A mix of Joy (19.5%), Disgust (17.6%), Anger (16.9%).</li>
+									<li><strong>Topic34_Waiting for Package Delivery:</strong> Anger (26.3%), Disgust (22.8%), Optimism (12.2%), and Anticipation (11.9%).</li>
+									<li><strong>Topic149_Cannabis vendor scamming reports:</strong> Pure Anger (29.6%) and Disgust (29.4%).</li>									
+								</ul>
+
+																								<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+							<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Unlike a mainstream setting, Darknet provides a space for uninhibited complaint. This is not just about financial loss; it's about the violation of trust and the potential for physical harm from counterfeit or tainted substances. Anonymity allows users to voice their rage and revulsion about being cheated or endangered without fear of judgment or reprisal from dealers or social peers</p> 
+								</div>
+								
+								
+								<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+									<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Theme: The Euphoria of a Successful Score & Quality Assurance</h5>
+									 
+									
+																								<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+							<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Joy, Optimism, Anticipation.</p>
+																	<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #90EE90;">Drug-Specific Examples:</h6>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #90EE90;">
+									<li><strong>Topic55_Cannabis Reviews & Quality:</strong> Joy (34.2%) and Optimism (27.1%).</li>
+									<li><strong>Topic71_Cocaine & MDMA Sales:</strong> Joy (34.9%) and Optimism (25.6%).</li>
+									<li><strong>Topic38_Golden Teacher Shrooms:</strong> Joy (31.2%), Optimism (25.3%), and Anticipation (20.1%).</li>
+								</ul>
+																								<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+							<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">These topics function as the positive inverse of the scam reports. Anonymity fosters a celebratory atmosphere, reinforcing community trust in good vendors and sharing the excitement of receiving a high-quality product.They are the lifeblood of the marketplace, building vendor reputation and user confidence through overwhelmingly positive emotional expression.</p>
+
+									
+								</div>
+
+								<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+									<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Theme: The Critical Pursuit of Harm Reduction and Safety Info</h5>
+									
+																								<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+							<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Anticipation, Fear, Disgust, Anger.</p>
+																	<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #add8e6;">Drug-Specific Examples:</h6>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #add8e6;">
+									<li><strong>Topic94_Pill Press Identification & Safety:</strong> Anticipation (25.0%).</li>
+									<li><strong>Topic39_Fentanyl sourcing and use:</strong> Disgust (26.2%), Anger (21.9%) and Fear (8.0%).</li>
+									<li><strong>Topic3_Dark Web Drug Investigations:</strong>Disgust (26.9%), Anger (23.8%) and Fear (7.8%) </li>
+								</ul>
+																								<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+							<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">The emotion of Anticipation is key here—it represents the user's forward-looking state of seeking knowledge to ensure a safe outcome. Anonymity creates a "safe space" for users to ask potentially self-incriminating but life-saving questions about substance safety, sourcing, and operational security. Fear also plays a critical role, not just of law enforcement, but of the dangerous substances themselves.</p>
+		
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div style="width: 110%; margin-left: -5%;">
+						<h4 style="font-size: 0.9em; margin-bottom: 15px; text-align: center;">Dread: Detailed Analysis of Trust-Building Mechanisms</h4>
+						<div style="text-align: left; font-size: 0.42em; line-height: 1.2; padding: 0 10px;">
+							<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-top: 10px;">
+								
+								<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+									<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Theme: Trust through Verification, Recommendations, and Shared Knowledge</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Anticipation, Optimism, Joy, and a notable spike in Trust.</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #add8e6;">Trust-Specific Examples:</h6>
+									<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #add8e6;">
+										<li><strong>Topic160_Requesting Help & Support:</strong> Highest Trust (11.3%) in entire dataset.</li>
+										<li><strong>Topic65_Empire vendor recommendations:</strong> Trust (7.8%), far above baseline.</li>
+										<li><strong>Topic91_Vendor Reviews & Experiences:</strong> Trust (7.0%), community values shared experiences.</li>
+										<li><strong>Topic30_Vendor legitimacy & reviews:</strong> Trust (6.4%), cornerstone function.</li>
+									</ul>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Most straightforward trust-building. Anonymity allows users to ask for help without shame whilst experts share knowledge without revealing identity. The act of asking demonstrates trust in community knowledge, and helpful replies validate that trust.</p>
+								</div>
+								
+								<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+									<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Theme: Trust through Positive Reinforcement and Shared Success</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Joy, Optimism, Anticipation.</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #90EE90;">Reputation-Building Examples:</h6>
+									<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #90EE90;">
+										<li><strong>Topic19_Positive Review Feedback:</strong> Joy (37.8%), Optimism (35.1%), Trust (3.1%).</li>
+										<li><strong>Topic53_MDMA vendor Australia:</strong> Joy (31.2%), Optimism (26.4%), Trust (2.4%).</li>
+										<li><strong>Topic120_UK Hash & Vendor Review:</strong> Trust (4.6%), Joy (32.5%), Optimism (28.7%).</li>
+										<li><strong>Topic172_WSM Store Link Request:</strong> Joy (32.1%), Anticipation (29.9%), Trust (1.6%).</li>
+									</ul>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Crowd-sourced reputation system in action. Trust built indirectly through overwhelming joy and optimism. A single positive review might not mean much, but topics filled with hundreds of joy-filled comments create emergent trust. Anonymity prevents appearing as a "shill".</p>
+								</div>
+
+								<div style="background-color: rgba(255,69,69,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF4545;">
+									<h5 style="color: #FF6B6B; margin-bottom: 8px; font-size: 1.1em;">Theme: Trust through Collective Vigilance and Shared Warnings (The Immune System)</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Disgust, Anger, Fear. (Low trust in threats, high meta-trust in community).</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #FF6B6B;">Community Defence Examples:</h6>
+									<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #FF6B6B;">
+										<li><strong>Topic29_Obvious Money Scam Reports:</strong> Disgust (38.6%), Anger (36.3%), Trust (0.1%).</li>
+										<li><strong>Topic140_Obvious Shill Alert:</strong> Disgust (38.3%), Anger (34.2%).</li>
+										<li><strong>Topic169_Phishing Links & Attacks:</strong> Fear (15.7%) added to Disgust and Anger.</li>
+										<li><strong>Topic227_Fake Review Detection:</strong> Disgust (30.3%), Anger (27.3%).</li>
+									</ul>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Most complex mechanism. Trust in community integrity forged by shared aggressive reaction to threats. High Anger and Disgust aren't signs of trustlessness—they're signs of community actively policing boundaries to preserve trust. Anonymous scam reports serve as warning flares, building meta-trust in the forum's immune system.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div style="width: 110%; margin-left: -5%;">
+						<h4 style="font-size: 0.9em; margin-bottom: 15px; text-align: center;">Communication Style Adaptation in Dread</h4>
+						<div style="text-align: left; font-size: 0.42em; line-height: 1.2; padding: 0 10px;">
+							<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-top: 10px;">
+								
+								<div style="background-color: rgba(255,69,69,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF4545;">
+									<h5 style="color: #FF6B6B; margin-bottom: 8px; font-size: 1.1em;">Theme: The Unfiltered Outburst (Emotional Broadcasting)</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Highest peaks of Anger, Disgust, or Joy.</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #FF6B6B;">Drug-Specific Examples:</h6>
+									<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #FF6B6B;">
+										<li><strong>Topic39_Fentanyl sourcing and use:</strong> Disgust (26.2%), Anger (21.9%).</li>
+										<li><strong>Topic149_Cannabis vendor scamming reports:</strong> Anger (29.6%), Disgust (29.4%).</li>
+										<li><strong>Topic126_Budget Shatter & Distillate Review:</strong> Joy (30.6%).</li>
+										<li><strong>Topic67_Real Alprazolam Bar Review:</strong> Mixed intense emotions - battleground style.</li>
+									</ul>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Most visceral communication style. Anonymity allows users to bypass politeness and engage in raw, emotional broadcasts. Serves as public warning or endorsement. Language is accusatory, profane, and absolute when negative, or effusive and hyperbolic when positive. Prioritises emotional impact over detailed argument.</p>
+								</div>
+								
+								<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+									<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Theme: The Efficient Request (Transactional Minimalism)</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Heavily skewed towards Anticipation.</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #add8e6;">Minimalist Communication Examples:</h6>
+									<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #add8e6;">
+										<li><strong>Topic78_US shipping availability:</strong> Anticipation (41.5%).</li>
+										<li><strong>Topic90_US LSD Vendors & Sources:</strong> Joy (25.1%), Anticipation (24.6%), Optimism (22.1%).</li>
+										<li><strong>Topic129_UK & Canadian Vendors Search:</strong> Anticipation (33.3%).</li>
+									</ul>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Anonymity allows users to drop all pretence and communicate needs with maximum efficiency. Direct, often just a few words, entirely goal-focused. Communication becomes simple input/output function. Social rules requiring "beating around the bush" are removed by anonymity.</p>
+								</div>
+
+								<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+									<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Theme: The Harm Reduction Protocol (Technical & Cautious)</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Dominant Emotions:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Mix of Anticipation, Disgust, Anger, and Fear.</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 4px; color: #90EE90;">Technical Communication Examples:</h6>
+									<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px; color: #90EE90;">
+										<li><strong>Topic182_Cocaine A_B Extraction Guide:</strong> Disgust (27.6%), Anticipation (22.3%), Anger (19.9%).</li>
+										<li><strong>Topic94_Pill Press Identification & Safety:</strong> Anticipation (25.0%).</li>
+										<li><strong>Topic64_Snorting, washing, recrystallising MXE chemicals:</strong> Technical procedures list.</li>
+										<li><strong>Topic215_Vacuum Seal & Mylar Stealth:</strong> Disgust (24.9%), Anger (17.9%).</li>
+									</ul>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Analysis:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Communication style of seasoned users. Language becomes cautious, technical, filled with community-specific jargon. Instructional and clinical precision because mistakes could have dire consequences. Defensive style designed to convey expertise and avoid misinterpretation in high-stakes conversations about safety, purity testing, or consumption methods.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+
+
+
+				<section>
+					<h2>Implications for Law Enforcement and Harm Reduction Intervention</h2>
+				</section>
+
+				<section>
+					<div style="width: 110%; margin-left: -5%;">
+						<h4 style="font-size: 0.9em; margin-bottom: 15px; text-align: center;">Law Enforcement: A Goldmine for Intelligence</h4>
+						<div style="text-align: left; font-size: 0.42em; line-height: 1.2; padding: 0 10px;">
+							<p style="margin-bottom: 8px; font-size: 1.1em; color: #FFD700; font-weight: bold; text-align: center;">LE can monitor forums to proactively identify emerging threats and market instabilities</p>
+							
+							<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-top: 10px;">
+								
+								<div style="background-color: rgba(255,69,69,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF4545;">
+									<h5 style="color: #FF6B6B; margin-bottom: 8px; font-size: 1.1em;">Topic39: Fentanyl sourcing and use</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Emotional Signature:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Disgust (26.2%), Anger (21.9%), Fear (8.0%)</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Intelligence Value:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">The prevalence of this topic alone is a major red flag. High Disgust and Fear provide LE with intelligence that the community itself sees this substance as a significant and unpredictable danger (e.g. Deception and Misrepresentation, Unwanted Adulteration,Unnecessary Heat from LE and harming others). </p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Actionable Intelligence:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Can inform investigative priorities and resource allocation for fentanyl-related operations.</p>
+								</div>
+								
+								<div style="background-color: rgba(255,140,0,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FF8C00;">
+									<h5 style="color: #FF8C00; margin-bottom: 8px; font-size: 1.1em;">Topic97: Nightmare Market Exit Scam</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Emotional Signature:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Fear (17.7%) - extremely high</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Intelligence Value:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Exit scam in drug market creates chaos. Extremely high Fear (e.g., Law Enforcement & Personal Safety, Hacking & Security Breaches, Operational Instability & Lack of Trust,  Financial Loss & Scams) provides LE with real-time gauge of user panic. </p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Actionable Intelligence:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Can use psychological operations and trust disruption tactics to internally divide and dismantle markets. Also can predict user migration patterns to other alternative markets.</p>
+								</div>
+
+								<div style="background-color: rgba(144,238,144,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #90EE90;">
+									<h5 style="color: #90EE90; margin-bottom: 8px; font-size: 1.1em;">Topic100: Research Chems from China</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Emotional Signature:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Anticipation (30.8%), Optimism (20.5%)</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Intelligence Value:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Provides direct intelligence on supply chains from China with High-Value Targets, Infrastructure & Communication Channels and even some contact numbers and addresses. High Anticipation and Optimism show demand and user interest.</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Actionable Intelligence:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Allows LE to focus on specific substance categories and their international origins. Also can be used to identify and track specific suppliers and their activities.</p>
+								</div>
+							</div>
+							
+							<div style="margin-top: 8px; background-color: rgba(173,216,230,0.1); padding: 8px; border-radius: 5px; border: 1px solid #add8e6;">
+								<p style="margin: 0; font-size: 1.0em; color: #add8e6; font-weight: bold; font-style: italic;">Emotional signatures act as signals. High Fear and Anger across multiple topics indicate market collapse, whilst new drug names in high-Joy topics signal new trends.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div style="width: 110%; margin-left: -5%;">
+						<h4 style="font-size: 0.9em; margin-bottom: 15px; text-align: center;">Law Enforcement: Criminal Tradecraft Intelligence</h4>
+						<div style="text-align: left; font-size: 0.42em; line-height: 1.2; padding: 0 10px;">
+							<p style="margin-bottom: 8px; font-size: 1.1em; color: #FFD700; font-weight: bold; text-align: center;">Users openly discuss concealment, payment, and security methods, providing direct insight into vulnerabilities</p>
+							
+							<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-top: 10px;">
+								
+								<div style="background-color: rgba(173,216,230,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #add8e6;">
+									<h5 style="color: #add8e6; margin-bottom: 8px; font-size: 1.1em;">Topic215: Vacuum Seal & Mylar Stealth</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Emotional Signature:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Disgust (24.9%), Anger (17.9%)</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Intelligence Value:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Provides law enforcement with precise intelligence on concealment methods users believe are effective for shipping drugs, including: Odor control (Mylar bags with heat sealing), visual & X-ray evasion (visual barriers), forensic evidence prevention (wearing gloves), and operational security (dropping packages in mailboxes far from cameras).</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Actionable Intelligence:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Allows postal inspectors and customs agents to refine detection techniques.</p>
+								</div>
+								
+								<div style="background-color: rgba(255,182,193,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFB6C1;">
+									<h5 style="color: #FFB6C1; margin-bottom: 8px; font-size: 1.1em;">Topic186: Drug Stash & OPSEC</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Emotional Signature:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Disgust (26.7%), Anger (22.3%)</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Intelligence Value:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Users discuss security and concealment methods (e.g., physical hiding spots, packaging and camouflage, counter-surveillance, using third parties) along with legal and practical advice (e.g., know your rights, plausible deniability, counter-intelligence). </p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Actionable Intelligence:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Provides law enforcement with insights into drug stash and operational security discussions, revealing common mistakes made by less experienced users.</p>
+								</div>
+
+								<div style="background-color: rgba(255,215,0,0.1); padding: 10px; border-radius: 8px; border-left: 4px solid #FFD700;">
+									<h5 style="color: #FFD700; margin-bottom: 8px; font-size: 1.1em;">Topic62: Buying Bitcoin with Cash</h5>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Emotional Signature:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Anticipation (38.8%)</p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Intelligence Value:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">High Anticipation shows users actively seeking ways to break traceable financial records linking their real identity to cryptocurrency wallets. For examle, they believe Bitcoin is a "Tainted" Asset, and Monero (XMR) is the "Gold Standard" of Privacy. The "BTC-to-XMR-to-BTC" conversion process is the most trusted method for achieving transaction anonymity. </p>
+									
+									<h6 style="font-weight: bold; font-size: 1.0em; margin-top: 8px; margin-bottom: 0px;">Actionable Intelligence:</h6>
+									<p style="font-size: 0.9em; margin-top: 2px; margin-bottom: 5px;">Highlights critical point for tracking attempts to break financial surveillance chains.</p>
+								</div>
+							</div>
+							
+							<div style="margin-top: 8px; background-color: rgba(255,182,193,0.1); padding: 8px; border-radius: 5px; border: 1px solid #FFB6C1;">
+								<p style="margin: 0; font-size: 1.0em; color: #FFB6C1; font-weight: bold; font-style: italic;">High levels of disgust and anger represent criticisms of poor, risky methods. OPSEC discussions are essentially playbooks. When users critique "bad OPSEC," they're pointing out vulnerabilities for law enforcement.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				 
+
+				<section>
+					<h2 style="font-size: 1.0em; margin-bottom: 15px;">Implications for Harm Reduction Intervention</h2>
+					<div style="text-align: left; font-size: 0.5em; line-height: 1.3; padding: 0 15px;">
+						
+						<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 15px;">
+							<div style="background-color: rgba(255,182,193,0.1); padding: 15px; border-radius: 8px; border: 2px solid #FFB6C1; height: 100%;">
+								<h4 style="color: #FFB6C1; margin-bottom: 10px; font-size: 1.2em;">Identifying At-Risk Individuals</h4>
+								<p style="margin-bottom: 8px; font-size: 1.0em;">Topics signalling profound distress are clear opportunities for intervention. Automated systems could flag such conversations.</p>
+								<p style="margin-bottom: 8px; font-weight: bold; color: #FFB6C1;">Critical Examples:</p>
+								<ul style="margin-top: 5px; list-style-type: disc; font-size: 0.9em; padding-left: 15px;">
+									<li><strong>Topic122_Suicidal thoughts and death wishes:</strong> Sadness (24.3%), Disgust (22.1%), Anger (18.1%) - massive red flag</li>
+									<li><strong>Topic13_Lonely, hurting, friendless:</strong> Clear indicator of emotional state often preceding radicalisation</li>
+								</ul>
+								<p style="margin-bottom: 8px; font-size: 0.9em; font-style: italic;">Intervention by mental health professionals or crisis support groups.</p>
+							</div>
+							
+							<div style="background-color: rgba(173,216,230,0.1); padding: 15px; border-radius: 8px; border: 2px solid #add8e6; height: 100%;">
+								<h4 style="color: #add8e6; margin-bottom: 10px; font-size: 1.2em;">Understanding the Radicalisation Funnel</h4>
+								<p style="margin-bottom: 8px; font-size: 1.0em;">Variety of topics shows potential pathway users might follow towards radicalisation.</p>
+								<p style="margin-bottom: 8px; font-weight: bold; color: #add8e6;">Likely Progression:</p>
+								<ol style="margin-top: 5px; list-style-type: decimal; font-size: 0.9em; padding-left: 20px;">
+									<li>Join for neutral interest (Topic14_Video Games)</li>
+									<li>Express feelings of isolation (Topic13_Lonely, hurting, friendless)</li>
+									<li>Drawn into high-anger/disgust echo chambers (Topic0, Topic4, Topic116)</li>
+									<li>Simple enemies and powerful sense of identity provided</li>
+								</ol>
+								<p style="margin-top: 8px; font-size: 0.9em; font-style: italic;">Harm reduction efforts can focus on disrupting this emotional journey at earlier, more vulnerable stages.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+
+
+
+				<section>
+					<h2 style="font-size: 0.92em; margin-bottom: 12px; text-align: center;">Comparative Analysis (part1)</h2>
+					<div style="text-align: left; font-size: 0.42em; line-height: 1.1; padding: 0 30px;">
+						<div style="display: grid; grid-template-columns: 2fr 3fr 3fr; gap: 12px; margin-top: 7px;">
+							<!-- Header Row -->
+							<div style="background-color: rgba(100,149,237,0.2); padding: 7px; border-radius: 5px; border: 2px solid #6495ED; font-weight: bold; text-align: center;">
+								<h4 style="color: #6495ED; margin: 0; font-size: 1em;">Area for comparison</h4>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.2); padding: 7px; border-radius: 5px; border: 2px solid #FF8C00; font-weight: bold; text-align: center;">
+								<h4 style="color: #FF8C00; margin: 0; font-size: 1em;">Telegram (Kiwifarms Transit Commission)</h4>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.2); padding: 7px; border-radius: 5px; border: 2px solid #DC143C; font-weight: bold; text-align: center;">
+								<h4 style="color: #DC143C; margin: 0; font-size: 1em;">Dread (Dark Web Forums)</h4>
+							</div>
+
+							<!-- Anonymity Level -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 7px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 0.95em; font-weight: bold;">Anonymity Level</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 7px; border-radius: 5px;">
+								<p style="margin: 0; font-size: 0.95em;">Pseudonymous (identity hidden from users but not platform)</p>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 7px; border-radius: 5px;">
+								<p style="margin: 0; font-size: 0.95em;">Full anonymity with technical safeguards (Tor, no JavaScript, PGP)</p>
+							</div>
+
+							<!-- The Role of Anonymity -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 7px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 0.95em; font-weight: bold;">The Role of Anonymity</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 7px; border-radius: 5px;">
+								<p style="margin: 0; font-size: 0.95em;">Social and ideological. Pseudonymity is leveraged to create 'toxic' communities centred on social conflict and the enforcement of in-group norms. Mainly for entertainment/Venting emotions.</p>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 7px; border-radius: 5px;">
+								<p style="margin: 0; font-size: 0.95em;">Transactional: Replete with topics that would be instantly censored on any mainstream platform. 'Useful' knowledge exchange.</p>
+							</div>
+
+							<!-- Info Organisation and Persistence -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 7px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 0.95em; font-weight: bold;">Info Organisation and Persistence</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 7px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 14px; font-size: 0.85em; line-height: 1.4;">
+									<li>Chat flow (chronological). Loose organisation.</li>
+									<li>Short-term. Info easily buried ('sinking post').</li>
+									<li>'Flooding screen': channel pushes.</li>
+									<li>Scrolling/searching within chats to discover content</li>
+									<li>&gt; low quality of knowledge</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 7px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 12px; font-size: 0.92em !important; line-height: 1.08;">
+									<li>Structured organisation: Hierarchical (sections/threads).</li>
+									<li>Long-term: Easy to review/discuss old posts.</li>
+									<li>Homepage shows latest/hot posts.</li>
+									<li>&gt; high quality of knowledge with debates and refinements.</li>
+								</ul>
+							</div>
+
+							<!-- Real-time Nature -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 5px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 0.88em; font-weight: bold;">Real-time Nature</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 5px; border-radius: 5px;">
+								<p style="margin: 0; font-size: 0.88em;">Encourage impulsive, emotionally charged statements and fuel confrontational exchanges</p>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 5px; border-radius: 5px;">
+								<p style="margin: 0; font-size: 0.88em;">Asynchronous communication: users have plenty of time to formulate their thoughts and disclosures carefully</p>
+							</div>
+
+							<!-- Primary Emotional Themes -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 5px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 0.88em; font-weight: bold;">Primary Emotional Themes</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 5px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 10px; font-size: 0.78em; line-height: 1.3;">
+									<li>High Disgust + Anger (hate speech, harassment)</li>
+									<li>Sadness (isolation, mental health issues)</li>
+									<li>Joy/Optimism in in-group validation</li>
+									<li>Fear in extremist content</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 5px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 10px; font-size: 0.78em; line-height: 1.3;">
+									<li>Anger/Disgust (scam reports, bad vendors)</li>
+									<li>Joy/Optimism (successful transactions)</li>
+									<li>Anticipation (harm reduction, safety seeking)</li>
+									<li>Fear (law enforcement, dangerous substances)</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h2 style="font-size: 1.08em; margin-bottom: 16px; text-align: center;">Comparative Analysis (part2)</h2>
+					<div style="text-align: left; font-size: 0.46em; line-height: 1.18; padding: 0 9px;">
+						<div style="display: grid; grid-template-columns: 2fr 3fr 3fr; gap: 10px; margin-top: 9px;">
+							<!-- Header Row -->
+							<div style="background-color: rgba(100,149,237,0.2); padding: 9px; border-radius: 5px; border: 2px solid #6495ED; font-weight: bold; text-align: center;">
+								<h4 class="part2-header" style="color: #6495ED; margin: 0; font-size: 0.98em !important;">Area for comparison</h4>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.2); padding: 9px; border-radius: 5px; border: 2px solid #FF8C00; font-weight: bold; text-align: center;">
+								<h4 class="part2-header" style="color: #FF8C00; margin: 0; font-size: 0.98em !important;">Telegram (Kiwifarms Transit Commission)</h4>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.2); padding: 9px; border-radius: 5px; border: 2px solid #DC143C; font-weight: bold; text-align: center;">
+								<h4 class="part2-header" style="color: #DC143C; margin: 0; font-size: 0.98em !important;">Dread (Dark Web Forums)</h4>
+							</div>
+
+							<!-- Communication Style -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 9px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 1em; font-weight: bold;">Communication Style</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Meme-driven lexicon</li>
+									<li>Weaponised language</li>
+									<li>Emotional shorthand for distress</li>
+									<li>Echo chamber amplification</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Unfiltered emotional outbursts</li>
+									<li>Efficient transactional requests</li>
+									<li>Technical harm reduction protocols</li>
+									<li>Reputation-based discourse</li>
+								</ul>
+							</div>
+
+							<!-- Self-Disclosure Patterns -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 9px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 1em; font-weight: bold;">Self-Disclosure Patterns</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Disclosure as weapon or shock value</li>
+									<li>Self-disgust narratives</li>
+									<li>Vulnerability expressed through hostility</li>
+									<li>Performative emotional broadcasting</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Disclosure for harm reduction purposes</li>
+									<li>Experience sharing for community benefit</li>
+									<li>Safety-focused vulnerable sharing</li>
+									<li>Professional/technical self-revelation</li>
+								</ul>
+							</div>
+
+							<!-- Emotional Function -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 9px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 1em; font-weight: bold;">Emotional Function</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Emotional disinhibition as primary goal</li>
+									<li>Catharsis through aggression</li>
+									<li>Identity construction through opposition</li>
+									<li>Community bonding via shared hostility</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Emotions serve marketplace functions</li>
+									<li>Information transmission through affect</li>
+									<li>Risk assessment via community sentiment</li>
+									<li>Practical outcomes from emotional expression</li>
+								</ul>
+							</div>
+
+							<!-- Trust Building -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 9px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 1em; font-weight: bold;">Trust Building</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Built on the personalised pseudonym</li>
+									<li>Identity as Loyalty: Expressing shared hatred proves you are 'in-group'</li>
+									<li>Emotional as Currency: Affective displays build social capital</li>
+									<li>Distrust of outsiders</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Rational and risk management</li>
+									<li>Reputation as Data: Reviews are aggregated data points</li>
+									<li>Punishment as Assurance: Collective vigilance against scams</li>
+									<li>Process as Trust: Faith in technology like escrow and encryption</li>
+								</ul>
+							</div>
+
+							<!-- Implications for Intervention -->
+							<div style="background-color: rgba(173,216,230,0.1); padding: 9px; border-radius: 5px; border-left: 4px solid #add8e6;">
+								<h5 style="color: #add8e6; margin: 0; font-size: 1em; font-weight: bold;">Implications for Intervention</h5>
+							</div>
+							<div style="background-color: rgba(255,140,0,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Monitor for radicalisation pathways</li>
+									<li>Identify at-risk individuals</li>
+									<li>Counter-narrative development needed</li>
+									<li>Focus on disrupting emotional echo chambers</li>
+								</ul>
+							</div>
+							<div style="background-color: rgba(220,20,60,0.1); padding: 9px; border-radius: 5px;">
+								<ul style="margin: 2px 0; padding-left: 16px; font-size: 0.92em; line-height: 1.18;">
+									<li>Leverage peer-to-peer warning systems</li>
+									<li>Monitor supply chain intelligence</li>
+									<li>Disrupt trust through market instability</li>
+									<li>Utilise community self-regulation patterns</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+				
+				
+
+
+
+				
+
+				
+
+				<section>
+					<h2 style="font-size: 1.2em; margin-bottom: 25px; text-align: centre; color: #ffffff;">Limitations</h2>
+					<div style="text-align: centre; font-size: 0.5em; line-height: 1.3; padding: 0 5%; max-width: 100%; margin: 0 auto;">
+						
+						<div style="background-color: rgba(255,215,0,0.15); padding: 25px; border-radius: 12px; border: 2px solid #FFD700; box-shadow: 0 4px 10px rgba(255,215,0,0.3); max-width: 95%; margin: 0 auto;">
+							<ul style="text-align: left; margin-top: 8px; list-style-type: disc; font-size: 1.0em; padding-left: 20px; line-height: 1.4;">
+								<li style="margin-bottom: 12px;">
+									<strong style="color: #FFD700;">Qualitative validation is necessary:</strong> Automated emotion detection may misclassify context, sarcasm, or slang.
+									<br><span style="font-size:0.85em; font-style:italic; color: #F0C419; margin-top: 5px; display: block;">
+										e.g. <em>topic71_Based Culture & Internet Slang</em> appears overwhelmingly "positive" but may be associated with extremist ideologies.
+									</span>
+								</li>
+								<li style="margin-bottom: 12px;">
+									<strong style="color: #FFD700;">No access to private or encrypted chats:</strong> Telegram offers a Secret Chats function with end-to-end encryption, two-factor authentication, and self-destructing messages. Officially, Telegram states these leave no trace on their servers. Evidence suggests Secret Chats are used between sellers and buyers to discuss transactions.
+									<br><span style="font-size:0.85em; font-style:italic; color: #F0C419; margin-top: 5px; display: block;">
+										e.g., Topic81_Selective Telegram Scammer: <br> One person asked: "anyone done business with iiuii8", the other replied: "Guys I think he is a scammer. Becose He refuse to use Verified or Torum or any marker escrow. Only uses German Fraud Group escrow on Telegram wich is a SCAM. Soooo make sense... PM me if im wrong"
+									</span>
+								</li>
+								<li style="margin-bottom: 12px;">
+									<strong style="color: #FFD700;">Platform and sample bias:</strong> Findings may not be generalisable to all communities.
+								</li>
+								<li style="margin-bottom: 0;">
+									<strong style="color: #FFD700;">Temporal and cultural constraints:</strong> The data represents a snapshot in time and is predominantly English-language, lacking cultural diversity.
+								</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+
+				 
+
+				<section>
+					<h2>References (1/2)</h2>
+					<div style="text-align: left; font-size: 0.4em; line-height: 1.2;">
+						<ul>
+							<li>Barratt MJ (2011) Discussing illicit drugs in public internet forums: visibility, stigma, and pseudonymity. In: Proceedings of the 5th International Conference on Communities and Technologies, New York, NY, USA, 29 June 2011, pp. 159–168. C&amp;T '11. Association for Computing Machinery. Available at: https://dl.acm.org/doi/10.1145/2103354.2103376 (accessed 25 April 2025).</li>
+							<li>Blankers M, Van Der Gouwe D and Van Laar M (2019) 4-Fluoramphetamine in the Netherlands: Text-mining and sentiment analysis of internet forums. International Journal of Drug Policy 64: 34–39.</li>
+							<li>Campbell K and Wright KB (2002) On‐line support groups: An investigation of relationships among source credibility, dimensions of relational communication, and perceptions of emotional support. Communication Research Reports 19(2). Routledge: 183–193.</li>
+							<li>Cho D and Acquisti A (2013) The More Social Cues, The Less Trolling? An Empirical Study of Online Commenting Behavior. Carnegie Mellon University. Epub ahead of print 3 June 2013. DOI: 10.1184/R1/6472058.v1.</li>
+							<li>Cho SY and Wright J (2019) Into the Dark: A Case Study of Banned Darknet Drug Forums. In: Social Informatics, 2019, pp. 109–127. Springer, Cham. Available at: https://link.springer.com/chapter/10.1007/978-3-030-34971-4_8 (accessed 24 April 2025).</li>
+							<li>Clark-Gordon CV, Bowman ,Nicholas D., Goodboy ,Alan K., et al. (2019) Anonymity and Online Self-Disclosure: A Meta-Analysis. Communication Reports 32(2). Routledge: 98–111.</li>
+							<li>Desjarlais M (ed.) (2019) The Psychology and Dynamics Behind Social Media Interactions: Advances in Psychology, Mental Health, and Behavioral Studies. IGI Global. Available at: https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-5225-9412-3 (accessed 25 April 2025).</li>
+							<li>Duxbury SW (2018) Information creation on online drug forums: How drug use becomes moral on the margins of science. Current Sociology 66(3). SAGE Publications Ltd: 431–448.</li>
+							<li>Grootendorst M (2022) BERTopic: Neural topic modeling with a class-based TF-IDF procedure. arXiv:2203.05794. arXiv. Available at: http://arxiv.org/abs/2203.05794 (accessed 16 June 2025).</li>
+							<li>Hollenbaugh EE and Everett MK (2013) The Effects of Anonymity on Self-Disclosure in Blogs: An Application of the Online Disinhibition Effect. Journal of Computer-Mediated Communication 18(3): 283–302.</li>
+							<li>Ibrahim AM, Hassan MS and Usman UM (2022) Online Support Communities and User Personal Information  Disclosure Behaviour: Investigating the Importance of Anonymity in  Online Support Community When Disclosing Sensitive Support Needs. In: International Conference on  INDUSTRY 5.0:  Human Touch, Innovation and Efficiency, 2022.</li>
+							<li>Jagfeld G, Lobban F, Davies R, et al. (2023) Posting patterns in peer online support forums and their associations with emotions and mood in bipolar disorder: Exploratory analysis. PLOS ONE 18(9): e0291369.</li>
+							
+						</ul>
+					</div>
+				</section>
+
+				<section>
+					<h2>References (2/2)</h2>
+					<div style="text-align: left; font-size: 0.4em; line-height: 1.2;">
+						<ul>
+						    <li>Kornfield R (2018) Designing Peer-to-Peer Communication Environments to Enhance Wellbeing: A Study of  Therapeutic Self-Expression Effects in Three Online Mental Health Support Platforms. UNIVERSITY OF WISCONSIN‐MADISON. Available at: https://asset.library.wisc.edu/1711.dl/4OLD5X32TSZO48P/R/file-b6a80.pdf (accessed 25 April 2025).</li>
+							<li>Lotay A (2016) Disclosure of Psychological Distress by University Students on an Anonymous Social Media Application: An Online Ethnographic Study. The University of Manitoba.</li>
+							<li>Malloch YZ and Zhang J (2019) Seeing Others Receive Support Online: Effects of Self-Disclosure and Similarity on Perceived Similarity and Health Behavior Intention. Journal of Health Communication 24(3). Taylor & Francis: 217–225.</li>
+							<li>Marshall P, Booth M, Coole M, et al. (2024) Understanding the Impacts of Online Mental Health Peer Support Forums: Realist Synthesis. JMIR Mental Health 11: e55750.</li>
+							<li>Moreno MA, Jelenchick LA, Egan KG, et al. (2011) Feeling bad on Facebook: depression disclosures by college students on a social networking site. Depression and Anxiety 28(6): 447–455.</li>
+							<li>Mufarreh RA (2023) How much, what and how: three-dimensional discourse analysis of Saudi women and men's self-disclosure. Saudi Journal of Language Studies 3(4). Emerald Publishing Limited: 200–219.</li>
+							<li>Omernick E and Sood SO (2013) The Impact of Anonymity in Online Communities. In: 2013 International Conference on Social Computing, September 2013, pp. 526–535. Available at: https://ieeexplore.ieee.org/document/6693377 (accessed 4 May 2025).</li>
+							<li>Sergio Pastrana, Daniel R. Thomas, Alice Hutchings, et al. (2018) CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale. Proceedings of the World Wide Web Conference (WWW'18).</li>
+							<li>Soussan C (2018) Novel Psychoactive Substances: Experienced Effects, Attitudes, and Motivations among Online Drug Community Users. Karlstad: Faculty of Arts and Social Sciences, Psychology, Karlstads universitet.</li>
+							<li>Suler J (2004) The online disinhibition effect. CYBERPSYCHOLOGY & BEHAVIOR 7(3): 321–326.</li>
+							<li>Valdez D and Patterson MS (2022) Computational analyses identify addiction help-seeking behaviors on the social networking website Reddit: Insights into online social interactions and addiction support communities. PLOS Digital Health 1(11): e0000143.</li>
+							<li>Wallin P (2014) Authoritarian Collaboration: Unexpected Effects of Open Government Initiatives in China. Växjö: Linnaeus University Press.</li>
+							<li>Yun H (2006) The creation and validation of a perceived anonymity scale based on the social information processing model and its nomological network test in an online social support community. Michigan State University. Available at: https://d.lib.msu.edu/etd/38061 (accessed 25 April 2025).</li>
+						</ul>
+					</div>
+				</section>
+
+				<section>
+					<h2 style="font-size: 1.8em; margin-bottom: 25px; color: #ffffff;">Thank You for Listening!</h2>
+					
+					<div style="background-color: rgba(255,255,255,0.1); padding: 30px; border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.3); max-width: 85%; margin: 0 auto;">
+						
+						
+
+						<div style="margin-bottom: 25px;">
+							<h3 style="color: #add8e6; font-size: 1.2em; margin-bottom: 12px;">Acknowledgements</h3>
+							<div style="text-align: left; font-size: 0.9em; line-height: 1.4; color: #ffffff;">
+								<p style="margin-bottom: 8px;">• Special thanks to <strong style="color: #FFD700;">Professor Angus Bancroft</strong> for his invaluable support</p>
+								<p style="margin-bottom: 0;">• Grateful acknowledgement to the <strong style="color: #FFD700;">Cambridge Cybercrime Conference (CCC)</strong> for providing the datasets that made this research possible</p>
+							</div>
+						</div>
+
+						<div style="font-size: 1.1em; color: #add8e6; font-weight: 500;">
+							Questions & Comments Welcome!
+						</div>
+					</div>
+				</section>
+
+						</div>
+					</div>
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				progress: false,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>

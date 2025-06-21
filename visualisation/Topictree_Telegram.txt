@@ -1,0 +1,608 @@
+├─Node 602: Harmful Stereotype Categories
+│    ├─Node 595: Socially Charged Finance
+│    │    ├─Node 588: Extremist Online Subcultures
+│    │    │    ├─Node 582: Racial and Geopolitical Slurs
+│    │    │    │    ├─Node 325: Harmful Discriminatory Language 
+│    │    │    │    │    ├─■──Nigger fucking baby ── Topic: 111
+│    │    │    │    │    └─■──Racial Slurs & Hate Speech ── Topic: 0
+│    │    │    │    └─Node 570: Geopolitics and Linguistics
+│    │    │    │         ├─Node 515: Global Geopolitical Populations & Conflicts
+│    │    │    │         │    ├─Node 447: Eastern European Geopolitics
+│    │    │    │         │    │    ├─■──Serbia and Hungary Relations ── Topic: 173
+│    │    │    │         │    │    └─Node 328: Geopolitical Conflict Analysis
+│    │    │    │         │    │         ├─■──Russia Ukraine War Conflict ── Topic: 23
+│    │    │    │         │    │         └─■──War & Conflict Sentiment ── Topic: 83
+│    │    │    │         │    └─Node 361: Anglo-American Regional Focus
+│    │    │    │         │         ├─Node 349: Postcolonial Identity & Migration
+│    │    │    │         │         │    ├─■──Africa & Latinx Migration ── Topic: 119
+│    │    │    │         │         │    └─■──British identity & nuance ── Topic: 30
+│    │    │    │         │         └─■──Florida State & Cities ── Topic: 24
+│    │    │    │         └─Node 418: Multilingual Identity & Citizenship
+│    │    │    │              ├─■──German nationality & identity ── Topic: 89
+│    │    │    │              └─Node 340: Computational Linguistics & Coding
+│    │    │    │                   ├─■──Language Identification & Learning ── Topic: 86
+│    │    │    │                   └─■──Python Programming Discussion ── Topic: 289
+│    │    │    └─Node 577: Harmful Stereotypes & Substances
+│    │    │         ├─Node 557: Targeted Group Hate Speech
+│    │    │         │    ├─Node 528: Political Extremism & Antisemitism
+│    │    │         │    │    ├─Node 342: Political Spectrum & Systems
+│    │    │         │    │    │    ├─■──Communism & Socialist Ideologies ── Topic: 191
+│    │    │         │    │    │    └─■──Left vs Right Wing Politics ── Topic: 116
+│    │    │         │    │    └─Node 482: Derogatory Group References
+│    │    │         │    │         ├─Node 402: Derogatory Terminology & History
+│    │    │         │    │         │    ├─■──Forbidden Word's Meaning & Origin ── Topic: 203
+│    │    │         │    │         │    └─Node 398: Harmful Identity Terminology
+│    │    │         │    │         │         ├─■──Names and Real Identities ── Topic: 126
+│    │    │         │    │         │         └─■──Highly offensive ableist slur ── Topic: 28
+│    │    │         │    │         └─Node 387: Abrahamic Religious Traditions
+│    │    │         │    │              ├─Node 348: Faith and Societal Impact
+│    │    │         │    │              │    ├─■──Jews and Antisemitism ── Topic: 4
+│    │    │         │    │              │    └─■──Church, Religion, and Beliefs ── Topic: 10
+│    │    │         │    │              └─■──Muslims and Islamic Beliefs ── Topic: 136
+│    │    │         │    └─Node 454: Family & Gender Identity
+│    │    │         │         ├─Node 353: Family & Life Stages
+│    │    │         │         │    ├─■──Age and Getting Older ── Topic: 43
+│    │    │         │         │    └─Node 338: Family & Relationships
+│    │    │         │         │         ├─■──Having and raising kids ── Topic: 63
+│    │    │         │         │         └─■──Wives and Marital Status ── Topic: 45
+│    │    │         │         └─Node 391: Online Extremist Subcultures
+│    │    │         │              ├─Node 368: Transgender Slurs & Terminology
+│    │    │         │              │    ├─■──Troon Derogatory Terminology ── Topic: 9
+│    │    │         │              │    └─Node 327: Gender-Based Misogyny & Control
+│    │    │         │              │         ├─■──Anti-transgender hate speech ── Topic: 1
+│    │    │         │              │         └─■──Women and Male Ownership ── Topic: 8
+│    │    │         │              └─■──Incel Community & Identity ── Topic: 85
+│    │    │         └─Node 572: Legal & Public Health Crises
+│    │    │              ├─Node 488: Reproductive & Substance Health
+│    │    │              │    ├─Node 351: Pregnancy & Ethical Considerations
+│    │    │              │    │    ├─■──Abortion debate and viewpoints ── Topic: 267
+│    │    │              │    │    └─■──Positive Pregnancy Confirmation ── Topic: 233
+│    │    │              │    └─Node 448: Public Health Crises
+│    │    │              │         ├─Node 414: Public Health Concerns
+│    │    │              │         │    ├─Node 360: Physiological Altering Substances
+│    │    │              │         │    │    ├─■──Hormone Replacement Therapy & Effects ── Topic: 99
+│    │    │              │         │    │    └─■──Illicit Drugs & Substance Use ── Topic: 6
+│    │    │              │         │    └─Node 382: Healthcare & Infectious Disease
+│    │    │              │         │         ├─■──COVID-19 & Viral Immunity ── Topic: 62
+│    │    │              │         │         └─■──Doctors and Medical Professionals ── Topic: 251
+│    │    │              │         └─■──AIDS and HIV concerns ── Topic: 115
+│    │    │              └─Node 561: Legal & Violent Outcomes
+│    │    │                   ├─Node 330: Crisis & Aggression Risk
+│    │    │                   │    ├─■──Suicidal thoughts and death wishes ── Topic: 122
+│    │    │                   │    └─■──Intense physical confrontation ── Topic: 196
+│    │    │                   └─Node 341: Legal System Challenges
+│    │    │                        ├─■──Problematic Trial Discussion ── Topic: 64
+│    │    │                        └─■──Police and Criminal Justice ── Topic: 197
+│    │    └─Node 583: Finance & Entertainment
+│    │         ├─Node 350: Resources and Communication
+│    │         │    ├─Node 333: Relationship & Financial Conflict
+│    │         │    │    ├─■──Crypto scam and lost money ── Topic: 3
+│    │         │    │    └─Node 319: Grief and Social Loss
+│    │         │    │         ├─Node 312: Public Figure Controversy
+│    │         │    │         │    ├─■──Is He Dead or Alive? ── Topic: 20
+│    │         │    │         │    └─■──Alana, drama and negativity ── Topic: 2
+│    │         │    │         └─■──lonely, hurting, friendless social isolation ── Topic: 13
+│    │         │    └─Node 332: Openness to New Information
+│    │         │         ├─■──Willingness to Try Ideas ── Topic: 22
+│    │         │         └─■──Knowing and Understanding Information ── Topic: 18
+│    │         └─Node 318: Comedic Moments & Responses
+│    │              ├─■──Funny guy recollections ── Topic: 133
+│    │              └─■──Humor and Funny Reactions ── Topic: 56
+│    └─Node 599: Body Image & Lifestyle
+│         ├─Node 596: Daily Start & Leisure
+│         │    ├─Node 581: Daily Greetings & Rest
+│         │    │    ├─Node 412: Positive Social Acknowledgement
+│         │    │    │    ├─■──Gratitude & Enthusiastic Affirmation ── Topic: 303
+│         │    │    │    └─Node 337: Online Affiliative Language
+│         │    │    │         ├─■──Thanks Fren & Variations ── Topic: 139
+│         │    │    │         └─■──Positive Online Community Slang ── Topic: 262
+│         │    │    └─Node 567: Daily Rhythms & Productivity
+│         │    │         ├─Node 508: Daily Wake-Sleep Cycle
+│         │    │         │    ├─Node 377: Sleep & Dream States
+│         │    │         │    │    ├─■──Dreams and Dreaming ── Topic: 220
+│         │    │         │    │    └─■──Trouble Sleeping & Nighttime Rest ── Topic: 34
+│         │    │         │    └─Node 463: Daily Greetings & Salutations
+│         │    │         │         ├─Node 369: Initial Interactions & Wellbeing
+│         │    │         │         │    ├─■──Good Morning Greetings & Wishes ── Topic: 163
+│         │    │         │         │    └─■──How are you doing? ── Topic: 129
+│         │    │         │         └─■──Meow & Hello Greetings ── Topic: 254
+│         │    │         └─Node 324: Performance & Wellbeing Status
+│         │    │              ├─■──At Work & Weekend Blues ── Topic: 98
+│         │    │              └─■──Functionality and Operational Status ── Topic: 241
+│         │    └─Node 590: Lifestyle & Consumption Interests
+│         │         ├─Node 585: Creative Animal Representations
+│         │         │    ├─Node 575: Creative Digital Entertainment
+│         │         │    │    ├─Node 566: Entertainment & Media Consumption
+│         │         │    │    │    ├─Node 526: Interactive Entertainment Environments
+│         │         │    │    │    │    ├─Node 420: Pokémon Gaming & Community
+│         │         │    │    │    │    │    ├─■──Pokemon Identification & Discussion ── Topic: 273
+│         │         │    │    │    │    │    └─Node 378: Hobbies and Recreation
+│         │         │    │    │    │    │         ├─Node 343: Digital Device Systems
+│         │         │    │    │    │    │         │    ├─■──Video Games & Play ── Topic: 14
+│         │         │    │    │    │    │         │    └─■──Linux, Phones, and OS ── Topic: 26
+│         │         │    │    │    │    │         └─■──Cars and Vehicle Ownership ── Topic: 67
+│         │         │    │    │    │    └─Node 481: Property & Weaponry Concerns
+│         │         │    │    │    │         ├─Node 358: Accommodation & Viewings
+│         │         │    │    │    │         │    ├─■──Renting and Housing Costs ── Topic: 250
+│         │         │    │    │    │         │    └─■──Request to see room ── Topic: 77
+│         │         │    │    │    │         └─Node 445: Hazardous Materials & Weapons
+│         │         │    │    │    │              ├─■──Flammable Gas & Burning Fuels ── Topic: 214
+│         │         │    │    │    │              └─Node 433: Transportation & Security Measures
+│         │         │    │    │    │                   ├─Node 390: Acquisition & Weaponry Access
+│         │         │    │    │    │                   │    ├─■──Wanting to get something ── Topic: 190
+│         │         │    │    │    │                   │    └─■──Firearms and Gun Access ── Topic: 57
+│         │         │    │    │    │                   └─■──Planes and Airport Travel ── Topic: 264
+│         │         │    │    │    └─Node 553: Recent Experiences & Media
+│         │         │    │    │         ├─Node 453: Recent Past Recollection
+│         │         │    │    │         │    ├─Node 417: Personal Experience & Recall
+│         │         │    │    │         │    │    ├─■──Forgetting and Remembering Memories ── Topic: 151
+│         │         │    │    │         │    │    └─■──Things That Happened/Happen ── Topic: 181
+│         │         │    │    │         │    └─Node 347: Temporal Measurement & History
+│         │         │    │    │         │         ├─■──Past Years & Timelines ── Topic: 123
+│         │         │    │    │         │         └─■──Time duration and length ── Topic: 147
+│         │         │    │    │         └─Node 473: Media & Quality Assessment
+│         │         │    │    │              ├─Node 395: Media Identification & Discovery
+│         │         │    │    │              │    ├─Node 357: Entertainment & Media Access
+│         │         │    │    │              │    │    ├─■──Searching for a book ── Topic: 109
+│         │         │    │    │              │    │    └─■──Movies & What to Watch ── Topic: 16
+│         │         │    │    │              │    └─■──Identifying a song title ── Topic: 25
+│         │         │    │    │              └─Node 394: Affect & Harm Evaluation
+│         │         │    │    │                   ├─■──Simply Cool & Positive ── Topic: 275
+│         │         │    │    │                   └─■──Assessing if it's bad ── Topic: 271
+│         │         │    │    └─Node 336: Creative Intelligence & Media
+│         │         │    │         ├─■──Appreciation of Visual Art ── Topic: 82
+│         │         │    │         └─■──AI & Artificial Intelligence ── Topic: 81
+│         │         │    └─Node 565: Anatomical & Animal Features
+│         │         │         ├─Node 385: Female Sexual Anatomy
+│         │         │         │    ├─Node 352: Breast Size & Structure
+│         │         │         │    │    ├─■──Female breasts & anatomy ── Topic: 76
+│         │         │         │    │    └─■──Size and Largeness ── Topic: 200
+│         │         │         │    └─■──Explicit sexual anatomy references ── Topic: 47
+│         │         │         └─Node 562: Animal & Personal Attributes
+│         │         │              ├─Node 552: Personal Physical Characteristics
+│         │         │              │    ├─Node 354: Body Image & Preference
+│         │         │              │    │    ├─■──Feet pics and fetish ── Topic: 118
+│         │         │              │    │    └─■──Height and Size Comparison ── Topic: 72
+│         │         │              │    └─Node 537: Physical Appearance Characteristics
+│         │         │              │         ├─Node 471: Personal Hygiene & Grooming
+│         │         │              │         │    ├─Node 436: Personal Hygiene & Anatomy
+│         │         │              │         │    │    ├─Node 366: Hygiene & Sanitation Practices
+│         │         │              │         │    │    │    ├─■──Unpleasant body odors & smells ── Topic: 78
+│         │         │              │         │    │    │    └─■──Bathroom & Shower Cleaning ── Topic: 36
+│         │         │              │         │    │    └─■──Human Hands & Anatomy ── Topic: 143
+│         │         │              │         │    └─Node 415: Facial & Head Protection
+│         │         │              │         │         ├─Node 373: Personal Appearance & Style
+│         │         │              │         │         │    ├─■──Hair & Hair Loss ── Topic: 37
+│         │         │              │         │         │    └─■──Clothing and Wearing Styles ── Topic: 38
+│         │         │              │         │         └─■──Cold Weather Conditions ── Topic: 101
+│         │         │              │         └─Node 356: Visual Perception & Color
+│         │         │              │              ├─■──Predominantly Pink Color Focus ── Topic: 103
+│         │         │              │              └─■──Eyes and Vision Focus ── Topic: 158
+│         │         │              └─Node 544: Animal & Insect Life
+│         │         │                   ├─Node 416: Pest & Pet Management
+│         │         │                   │    ├─■──Rats and Rodent Control ── Topic: 272
+│         │         │                   │    └─Node 371: Companion Animal Profiles
+│         │         │                   │         ├─■──Dogs and breeds ── Topic: 54
+│         │         │                   │         └─■──Cute Cat Named LowCat ── Topic: 31
+│         │         │                   └─Node 428: Invertebrate & Food Safety
+│         │         │                        ├─Node 411: Wildlife & Aquatic Ecosystems
+│         │         │                        │    ├─■──Insects and Bug Infestation ── Topic: 113
+│         │         │                        │    └─■──Fishing and aquatic life ── Topic: 170
+│         │         │                        └─■──Eggs & Dietary Concerns ── Topic: 231
+│         │         └─Node 564: Food and Beverage Options
+│         │              ├─Node 396: Beverages & Hydration
+│         │              │    ├─Node 339: Beverage Consumption & Safety
+│         │              │    │    ├─■──Drinking Water & Bottles ── Topic: 278
+│         │              │    │    └─■──Alcoholic drinks and drinking ── Topic: 41
+│         │              │    └─■──Coffee & Coffee Drinks ── Topic: 128
+│         │              └─Node 440: Baked Goods & Savories
+│         │                   ├─Node 386: Culinary Staples & Components
+│         │                   │    ├─Node 344: Culinary Variety & Options
+│         │                   │    │    ├─■──Dragonfruit Taste and Flavor ── Topic: 117
+│         │                   │    │    └─■──Burgers, steak, and vegan food ── Topic: 11
+│         │                   │    └─■──Making & Eating Cheese ── Topic: 153
+│         │                   └─■──Pizza and toppings discussion ── Topic: 121
+│         └─Node 592: Physical Appearance & Body Image
+│              ├─Node 309: Body Weight & Perception
+│              │    ├─■──Weight and body image ── Topic: 239
+│              │    └─■──Weight and Body Image ── Topic: 7
+│              └─Node 315: Physical Self-Perception & Evaluation
+│                   ├─■──Self-Perceived Ugliness & Beauty ── Topic: 176
+│                   └─■──Appearance and Attractiveness Judgments ── Topic: 252
+└─Node 607: User Identity & Orientation
+     ├─Node 606: User Identity & Verification
+     │    ├─Node 594: User Communication & Status
+     │    │    ├─Node 317: User Mute Management
+     │    │    │    ├─■──Chat Muted & Muting ── Topic: 295
+     │    │    │    └─■──Muted User Reasons & Times ── Topic: 192
+     │    │    └─Node 589: User Account & Content
+     │    │         ├─Node 323: User Activity & Alerts
+     │    │         │    ├─■──User 1926801217 Warnings Status ── Topic: 84
+     │    │         │    └─Node 311: Telegram Account Identification
+     │    │         │         ├─■──Telegram User Reporting & IDs ── Topic: 169
+     │    │         │         └─■──Nellel & Telegram User IDs ── Topic: 120
+     │    │         └─Node 587: Offensive Content & Bans
+     │    │              ├─Node 329: Furry Sensory & Persona
+     │    │              │    ├─■──Furry Identity & Disavowal ── Topic: 42
+     │    │              │    └─■──Furry smell, user 1926801217 ── Topic: 228
+     │    │              └─Node 322: Platform Enforcement Actions
+     │    │                   ├─■──Telegram User Bans & Dust ── Topic: 260
+     │    │                   └─■──Account Bans & Restrictions ── Topic: 69
+     │    └─Node 605: Controversial Online Personalities
+     │         ├─Node 604: Online Content & Personalities
+     │         │    ├─Node 306: Online Counterculture & Radicalization
+     │         │    │    ├─■──Based Culture & Internet Slang ── Topic: 71
+     │         │    │    └─■──Highly Based Redpilling ── Topic: 92
+     │         │    └─Node 603: Online Harassment & Disputes
+     │         │         ├─Node 601: Affirmative Evidence & Validation
+     │         │         │    ├─Node 310: Validity & Expressive States
+     │         │         │    │    ├─■──True, UwU, and More ── Topic: 269
+     │         │         │    │    └─■──Affirmation and Truthfulness ── Topic: 95
+     │         │         │    └─Node 600: Conversational Greetings & Responses
+     │         │         │         ├─Node 598: Online Harassment & Platforms
+     │         │         │         │    ├─Node 597: Exaggerated Affirmation & Reality
+     │         │         │         │    │    ├─Node 593: Online Communication & Affirmation
+     │         │         │         │    │    │    ├─Node 517: Uncertainty and Confirmation Signals
+     │         │         │         │    │    │    │    ├─Node 367: Self-Limiting Beliefs & Attitudes
+     │         │         │         │    │    │    │    │    ├─■──Lack of Knowledge/Clue ── Topic: 283
+     │         │         │         │    │    │    │    │    └─■──Negative Affirmation & Agreement ── Topic: 198
+     │         │         │         │    │    │    │    └─Node 326: Positive Response Indicators
+     │         │         │         │    │    │    │         ├─■──Affirmative Responses & Keywords ── Topic: 32
+     │         │         │         │    │    │    │         └─■──Affirmative Agreement & Enthusiasm ── Topic: 166
+     │         │         │         │    │    │    └─Node 586: Social Media Bots & Humor
+     │         │         │         │    │    │         ├─Node 579: Digital Interaction & Deception
+     │         │         │         │    │    │         │    ├─Node 335: Negotiation & Truthfulness
+     │         │         │         │    │    │         │    │    ├─■──Accepting the Concession ── Topic: 238
+     │         │         │         │    │    │         │    │    └─■──Detecting Falsehood & Lies ── Topic: 44
+     │         │         │         │    │    │         │    └─Node 573: Online Community & Extremism
+     │         │         │         │    │    │         │         ├─Node 568: Online Political & Social Commentary
+     │         │         │         │    │    │         │         │    ├─Node 563: Exploitative Online Content
+     │         │         │         │    │    │         │         │    │    ├─Node 359: Visual & Anime Interests
+     │         │         │         │    │    │         │         │    │    │    ├─■──Profile Picture Discussion ── Topic: 114
+     │         │         │         │    │    │         │         │    │    │    └─■──Anime Discussion & Content ── Topic: 52
+     │         │         │         │    │    │         │         │    │    └─Node 559: Online Harassment & Extremism
+     │         │         │         │    │    │         │         │    │         ├─Node 558: Online Persona & Commentary
+     │         │         │         │    │    │         │         │    │         │    ├─Node 372: Online Disruption & Humor
+     │         │         │         │    │    │         │         │    │         │    │    ├─■──Quick Troll & Lulz ── Topic: 265
+     │         │         │         │    │    │         │         │    │         │    │    └─■──Online Trolling & Irony ── Topic: 88
+     │         │         │         │    │    │         │         │    │         │    └─Node 556: Online Persona & Content
+     │         │         │         │    │    │         │         │    │         │         ├─Node 550: Maternal & Animal Lactation
+     │         │         │         │    │    │         │         │    │         │         │    ├─Node 541: Family & Creator Origins
+     │         │         │         │    │    │         │         │    │         │         │    │    ├─Node 393: Internet Culture Phenomena
+     │         │         │         │    │    │         │         │    │         │         │    │    │    ├─■──Sonic the Hedgehog Games ── Topic: 276
+     │         │         │         │    │    │         │         │    │         │         │    │    │    └─■──Chris Chan Online Persona ── Topic: 87
+     │         │         │         │    │    │         │         │    │         │         │    │    └─Node 376: Parental Figure Humor
+     │         │         │         │    │    │         │         │    │         │         │    │         ├─■──Insulting "Your Mom" Jokes ── Topic: 245
+     │         │         │         │    │    │         │         │    │         │         │    │         └─■──Complicated Dad Relationships ── Topic: 299
+     │         │         │         │    │    │         │         │    │         │         │    └─Node 375: Mammalian Milk & Sources
+     │         │         │         │    │    │         │         │    │         │         │         ├─■──Breast Milk & Lactation ── Topic: 127
+     │         │         │         │    │    │         │         │    │         │         │         └─■──Cow Discussions & Content ── Topic: 160
+     │         │         │         │    │    │         │         │    │         │         └─Node 547: Cultural Stereotypes & Bias
+     │         │         │         │    │    │         │         │    │         │              ├─Node 536: Transgender Visual Media & Identity
+     │         │         │         │    │    │         │         │    │         │              │    ├─Node 523: Transgender Erotic Body Modification
+     │         │         │         │    │    │         │         │    │         │              │    │    ├─Node 490: Exploitative Sexual Content
+     │         │         │         │    │    │         │         │    │         │              │    │    │    ├─Node 470: Anomalous Experiences & Self
+     │         │         │         │    │    │         │         │    │         │              │    │    │    │    ├─■──FTM Identity & Discussion ── Topic: 291
+     │         │         │         │    │    │         │         │    │         │              │    │    │    │    └─■──The Nature of Weirdness ── Topic: 230
+     │         │         │         │    │    │         │         │    │         │              │    │    │    └─Node 446: Exploitative Sexual Content
+     │         │         │         │    │    │         │         │    │         │              │    │    │         ├─Node 427: Exploitation & Harmful Content
+     │         │         │         │    │    │         │         │    │         │              │    │    │         │    ├─■──Explicit Pornographic Content ── Topic: 96
+     │         │         │         │    │    │         │         │    │         │              │    │    │         │    └─■──Degeneracy & Social Shaming ── Topic: 204
+     │         │         │         │    │    │         │         │    │         │              │    │    │         └─■──Utterly Disgusting and Gross ── Topic: 188
+     │         │         │         │    │    │         │         │    │         │              │    │    └─Node 423: Body Image & Expression
+     │         │         │         │    │    │         │         │    │         │              │    │         ├─■──Vingle, gay, fat content ── Topic: 105
+     │         │         │         │    │    │         │         │    │         │              │    │         └─■──Tattoos and Tattoo Opinions ── Topic: 279
+     │         │         │         │    │    │         │         │    │         │              │    └─Node 527: Digital Character & Persona
+     │         │         │         │    │    │         │         │    │         │              │         ├─Node 521: Male Facial Features & Types
+     │         │         │         │    │    │         │         │    │         │              │         │    ├─Node 431: Facial Structure & Archetypes
+     │         │         │         │    │    │         │         │    │         │              │         │    │    ├─■──Giga Chad & Masculinity ── Topic: 242
+     │         │         │         │    │    │         │         │    │         │              │         │    │    └─■──Nose, Chin & Facial Features ── Topic: 144
+     │         │         │         │    │    │         │         │    │         │              │         │    └─Node 519: Online Viral Content
+     │         │         │         │    │    │         │         │    │         │              │         │         ├─Node 512: Equine & Character Experiences
+     │         │         │         │    │    │         │         │    │         │              │         │         │    ├─Node 510: Online Persona & Slang
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │    ├─Node 474: Jewish Hate & Slurs
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │    │    ├─■──Goyslop & Related Terms ── Topic: 217
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │    │    └─■──Antisemitic hate speech targeting Jews ── Topic: 205
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │    └─Node 507: Animal-Themed Creative Content
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │         ├─Node 451: Internet Persona & Trends
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │         │    ├─■──Horse girl transformation ── Topic: 102
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │         │    └─■──Ethan & Ralph Content ── Topic: 73
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │         └─Node 491: Unusual Animal Behaviors
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │              ├─Node 483: Italian Culture & Perception
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │              │    ├─■──Italian Identity & Stereotypes ── Topic: 270
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │              │    └─Node 468: Animal & Infrastructure Transport
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │              │         ├─■──Monkeys and Primate Abuse ── Topic: 125
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │              │         └─■──Trains and rail transport ── Topic: 234
+     │         │         │         │    │    │         │         │    │         │              │         │         │    │              └─■──Piss Bear Phenomenon ── Topic: 165
+     │         │         │         │    │    │         │         │    │         │              │         │         │    └─Node 455: Affective & Socioeconomic Distress
+     │         │         │         │    │    │         │         │    │         │              │         │         │         ├─■──pervasive sadness and disappointment ── Topic: 145
+     │         │         │         │    │    │         │         │    │         │              │         │         │         └─■──Broken Buck & Status ── Topic: 175
+     │         │         │         │    │    │         │         │    │         │              │         │         └─Node 504: Online Viral Content
+     │         │         │         │    │    │         │         │    │         │              │         │              ├─Node 466: Online Culture & Commentary
+     │         │         │         │    │    │         │         │    │         │              │         │              │    ├─■──Levels of Cringe Content ── Topic: 137
+     │         │         │         │    │    │         │         │    │         │              │         │              │    └─■──TikTok & Liberal Commentary ── Topic: 255
+     │         │         │         │    │    │         │         │    │         │              │         │              └─Node 477: Amphibian Vocalizations & Deception
+     │         │         │         │    │    │         │         │    │         │              │         │                   ├─■──Understanding Online Baiting ── Topic: 207
+     │         │         │         │    │    │         │         │    │         │              │         │                   └─Node 462: Bioacoustic Systems & Morphology
+     │         │         │         │    │    │         │         │    │         │              │         │                        ├─■──Voice & Sound Modification ── Topic: 225
+     │         │         │         │    │    │         │         │    │         │              │         │                        └─■──Frogs and Toad Anatomy ── Topic: 293
+     │         │         │         │    │    │         │         │    │         │              │         └─Node 514: Digital Character & Worlds
+     │         │         │         │    │    │         │         │    │         │              │              ├─Node 505: Fictional Character Affection
+     │         │         │         │    │    │         │         │    │         │              │              │    ├─Node 489: Comfort & Whimsical Aesthetics
+     │         │         │         │    │    │         │         │    │         │              │              │    │    ├─■──Cozy & Relaxing Vibes ── Topic: 287
+     │         │         │         │    │    │         │         │    │         │              │              │    │    └─Node 469: User Interests & Queries
+     │         │         │         │    │    │         │         │    │         │              │              │    │         ├─■──Chimkin & related terms ── Topic: 277
+     │         │         │         │    │    │         │         │    │         │              │              │    │         └─■──Luna mentions & queries ── Topic: 149
+     │         │         │         │    │    │         │         │    │         │              │              │    └─Node 479: Status & Social Dynamics
+     │         │         │         │    │    │         │         │    │         │              │              │         ├─Node 461: Online Identity & Archetypes
+     │         │         │         │    │    │         │         │    │         │              │              │         │    ├─■──Coolest Ice Branding/Recognition ── Topic: 55
+     │         │         │         │    │    │         │         │    │         │              │              │         │    └─■──Simp & Cuck Culture ── Topic: 286
+     │         │         │         │    │    │         │         │    │         │              │              │         └─■──Royal Queens & Kings ── Topic: 182
+     │         │         │         │    │    │         │         │    │         │              │              └─Node 511: Digital Media & Identities
+     │         │         │         │    │    │         │         │    │         │              │                   ├─Node 476: Private Communication & Requests
+     │         │         │         │    │    │         │         │    │         │              │                   │    ├─Node 472: Mythological Figures & Media
+     │         │         │         │    │    │         │         │    │         │              │                   │    │    ├─■──Virgo Zodiac & ID 1926801217 ── Topic: 141
+     │         │         │         │    │    │         │         │    │         │              │                   │    │    └─■──Naia - Sappho & Okami ── Topic: 209
+     │         │         │         │    │    │         │         │    │         │              │                   │    └─■──Direct Message Requests ── Topic: 161
+     │         │         │         │    │    │         │         │    │         │              │                   └─Node 456: Controversial Online Discussions
+     │         │         │         │    │    │         │         │    │         │              │                        ├─■──Kronist & Chiefs Discussion ── Topic: 53
+     │         │         │         │    │    │         │         │    │         │              │                        └─■──Thug Shaker Booty Focus ── Topic: 300
+     │         │         │         │    │    │         │         │    │         │              └─Node 540: South & East Asian Stereotypes
+     │         │         │         │    │    │         │         │    │         │                   ├─Node 424: Anti-Asian Discrimination & Hate
+     │         │         │         │    │    │         │         │    │         │                   │    ├─■──Anti-Chinese hate speech ── Topic: 199
+     │         │         │         │    │    │         │         │    │         │                   │    └─Node 421: East Asian Affairs
+     │         │         │         │    │    │         │         │    │         │                   │         ├─■──Asian Identity & Heritage ── Topic: 142
+     │         │         │         │    │    │         │         │    │         │                   │         └─■──China & Geopolitical Concerns ── Topic: 296
+     │         │         │         │    │    │         │         │    │         │                   └─Node 534: National & Identity Symbols
+     │         │         │         │    │    │         │         │    │         │                        ├─Node 486: Exploitative & Harmful Content
+     │         │         │         │    │    │         │         │    │         │                        │    ├─■──Bob & Vagine Content ── Topic: 304
+     │         │         │         │    │    │         │         │    │         │                        │    └─Node 407: India & Global Labor
+     │         │         │         │    │    │         │         │    │         │                        │         ├─■──Indian Identity & Conflict ── Topic: 100
+     │         │         │         │    │    │         │         │    │         │                        │         └─■──Pajeet Insults & Outsourcing ── Topic: 226
+     │         │         │         │    │    │         │         │    │         │                        └─Node 426: Identity & Expression Resources
+     │         │         │         │    │    │         │         │    │         │                             ├─■──Flags and LGBTQ+ Pride ── Topic: 206
+     │         │         │         │    │    │         │         │    │         │                             └─■──Pride, Humor & Saying No ── Topic: 49
+     │         │         │         │    │    │         │         │    │         └─Node 549: Online Harmful Content
+     │         │         │         │    │    │         │         │    │              ├─Node 543: Exploitation and Harmful Ideologies
+     │         │         │         │    │    │         │         │    │              │    ├─Node 532: Offensive Identity & Slurs
+     │         │         │         │    │    │         │         │    │              │    │    ├─Node 524: Controversial Figures & Neurodiversity
+     │         │         │         │    │    │         │         │    │              │    │    │    ├─Node 422: Public Figure Controversies
+     │         │         │         │    │    │         │         │    │              │    │    │    │    ├─■──Nick Fuentes & Controversy ── Topic: 297
+     │         │         │         │    │    │         │         │    │              │    │    │    │    └─■──Kanye West Controversies & Culture ── Topic: 146
+     │         │         │         │    │    │         │         │    │              │    │    │    └─Node 441: Neurodevelopmental & Psychotic Disorders
+     │         │         │         │    │    │         │         │    │              │    │    │         ├─■──Schizo & Schizophrenia Discussions ── Topic: 167
+     │         │         │         │    │    │         │         │    │              │    │    │         └─Node 410: Neurodiversity & Mental Health
+     │         │         │         │    │    │         │         │    │              │    │    │              ├─■──Mental Illness Discussion ── Topic: 284
+     │         │         │         │    │    │         │         │    │              │    │    │              └─■──Autism Spectrum & Experiences ── Topic: 27
+     │         │         │         │    │    │         │         │    │              │    │    └─Node 487: Harmful Slurs & Bullying
+     │         │         │         │    │    │         │         │    │              │    │         ├─Node 467: Social Interaction & Harassment
+     │         │         │         │    │    │         │         │    │              │    │         │    ├─Node 432: Hostile Discourse & Outgroups
+     │         │         │         │    │    │         │         │    │              │    │         │    │    ├─■──Anti-Normie Sentiment ── Topic: 285
+     │         │         │         │    │    │         │         │    │              │    │         │    │    └─■──Anti-journalist hate speech ── Topic: 222
+     │         │         │         │    │    │         │         │    │              │    │         │    └─Node 457: Harmful Social Interactions
+     │         │         │         │    │    │         │         │    │              │    │         │         ├─■──Nobody Cares / Lack of Care ── Topic: 302
+     │         │         │         │    │    │         │         │    │              │    │         │         └─■──Cyberbullying & Bullying Behavior ── Topic: 208
+     │         │         │         │    │    │         │         │    │              │    │         └─Node 458: Social Interactions & Recreation
+     │         │         │         │    │    │         │         │    │              │    │              ├─Node 413: Sports & Prejudice
+     │         │         │         │    │    │         │         │    │              │    │              │    ├─■──Harmful homophobic slurs ── Topic: 21
+     │         │         │         │    │    │         │         │    │              │    │              │    └─■──Soccer and related sports ── Topic: 236
+     │         │         │         │    │    │         │         │    │              │    │              └─■──Simply Fun & Enjoyment ── Topic: 210
+     │         │         │         │    │    │         │         │    │              │    └─Node 513: Sexual Assault & Exploitation
+     │         │         │         │    │    │         │         │    │              │         ├─Node 401: Child Sexual Abuse Concerns
+     │         │         │         │    │    │         │         │    │              │         │    ├─■──Grooming & Child Exploitation ── Topic: 213
+     │         │         │         │    │    │         │         │    │              │         │    └─■──Pedophile Accusations & Discussion ── Topic: 68
+     │         │         │         │    │    │         │         │    │              │         └─Node 406: Sexual Misconduct & Boundaries
+     │         │         │         │    │    │         │         │    │              │              ├─■──Sexual Assault & Violence ── Topic: 152
+     │         │         │         │    │    │         │         │    │              │              └─■──Consent & Accidental Sex ── Topic: 280
+     │         │         │         │    │    │         │         │    │              └─Node 535: Online Investigation & Surveillance
+     │         │         │         │    │    │         │         │    │                   ├─Node 525: Content Moderation & Stickers
+     │         │         │         │    │    │         │         │    │                   │    ├─Node 485: Digital Content Modifications
+     │         │         │         │    │    │         │         │    │                   │    │    ├─Node 425: Community Engagement & Channels
+     │         │         │         │    │    │         │         │    │                   │    │    │    ├─■──Sticker pack requests & love ── Topic: 110
+     │         │         │         │    │    │         │         │    │                   │    │    │    └─■──Telegram Chat & Channel ── Topic: 61
+     │         │         │         │    │    │         │         │    │                   │    │    └─Node 464: Community Platform Support
+     │         │         │         │    │    │         │         │    │                   │    │         ├─■──Discord Server Usage & Issues ── Topic: 212
+     │         │         │         │    │    │         │         │    │                   │    │         └─Node 429: Problematic Online Content
+     │         │         │         │    │    │         │         │    │                   │    │              ├─■──Forum & Reddit Mods ── Topic: 237
+     │         │         │         │    │    │         │         │    │                   │    │              └─■──Gore and Sperging Content ── Topic: 187
+     │         │         │         │    │    │         │         │    │                   │    └─Node 405: Online Conflict & Abuse
+     │         │         │         │    │    │         │         │    │                   │         ├─■──Janny & Online Drama ── Topic: 66
+     │         │         │         │    │    │         │         │    │                   │         └─■──Harmful Reporting & Slurs ── Topic: 171
+     │         │         │         │    │    │         │         │    │                   └─Node 434: Online Covert Influence Operations
+     │         │         │         │    │    │         │         │    │                        ├─Node 409: Online Radicalization & Enforcement
+     │         │         │         │    │    │         │         │    │                        │    ├─■──4chan & Online Extremism ── Topic: 162
+     │         │         │         │    │    │         │         │    │                        │    └─■──Federal Agents & Investigations ── Topic: 90
+     │         │         │         │    │    │         │         │    │                        └─■──Online Glow & Identity ── Topic: 132
+     │         │         │         │    │    │         │         │    └─Node 554: Generational Trends & Intellect
+     │         │         │         │    │    │         │         │         ├─Node 551: Generational Political Engagement
+     │         │         │         │    │    │         │         │         │    ├─Node 439: Election Results and Participation
+     │         │         │         │    │    │         │         │         │    │    ├─Node 383: Political Integrity & Oversight
+     │         │         │         │    │    │         │         │         │    │    │    ├─■──Biden and Hunter Investigations ── Topic: 215
+     │         │         │         │    │    │         │         │         │    │    │    └─■──Voting and Elections ── Topic: 131
+     │         │         │         │    │    │         │         │         │    │    └─■──Winning and Losing Outcomes ── Topic: 229
+     │         │         │         │    │    │         │         │         │    └─Node 459: Generational Digital Culture
+     │         │         │         │    │    │         │         │         │         ├─■──Exploring Modern Meme Culture ── Topic: 223
+     │         │         │         │    │    │         │         │         │         └─Node 381: Generational Perspectives & Attitudes
+     │         │         │         │    │    │         │         │         │              ├─■──Generational Differences & Boomers ── Topic: 168
+     │         │         │         │    │    │         │         │         │              └─■──Zoomer Sentiment & Reactions ── Topic: 224
+     │         │         │         │    │    │         │         │         └─Node 548: Cognitive Assessment & Avian Studies
+     │         │         │         │    │    │         │         │              ├─Node 538: Visual Comparisons & Avian Life
+     │         │         │         │    │    │         │         │              │    ├─Node 480: Harmful Racial Language
+     │         │         │         │    │    │         │         │              │    │    ├─■──**topic: Racially Offensive Slurs** ── Topic: 155
+     │         │         │         │    │    │         │         │              │    │    └─Node 388: Online Identity & Evidence
+     │         │         │         │    │    │         │         │              │    │         ├─■──Literally Identifying As Someone ── Topic: 227
+     │         │         │         │    │    │         │         │              │    │         └─■──Taking & Posting Screenshots ── Topic: 164
+     │         │         │         │    │    │         │         │              │    └─Node 530: Avian Species Comparison
+     │         │         │         │    │    │         │         │              │         ├─Node 449: Document & Instance Metrics
+     │         │         │         │    │    │         │         │              │         │    ├─■──41 Percent Document Frequency ── Topic: 135
+     │         │         │         │    │    │         │         │              │         │    └─Node 363: Interpersonal Dynamics & Conflict
+     │         │         │         │    │    │         │         │              │         │         ├─■──Number & Attraction Overlap ── Topic: 178
+     │         │         │         │    │    │         │         │              │         │         └─■──Aren't You Argumentative Responses ── Topic: 177
+     │         │         │         │    │    │         │         │              │         └─Node 397: Comparative Ornithological Studies
+     │         │         │         │    │    │         │         │              │              ├─■──Comparing Similar & Different Things ── Topic: 195
+     │         │         │         │    │    │         │         │              │              └─■──Birds and Avian Life ── Topic: 186
+     │         │         │         │    │    │         │         │              └─Node 442: Cognitive Ability & Science
+     │         │         │         │    │    │         │         │                   ├─Node 374: Cognitive Assessment Tools
+     │         │         │         │    │    │         │         │                   │    ├─■──Intelligence & IQ Scores ── Topic: 290
+     │         │         │         │    │    │         │         │                   │    └─■──Identifying a specific test ── Topic: 211
+     │         │         │         │    │    │         │         │                   └─■──Science and Scientific Research ── Topic: 246
+     │         │         │         │    │    │         │         └─Node 571: Inappropriate User Interactions
+     │         │         │         │    │    │         │              ├─Node 546: AI & Historical Figures
+     │         │         │         │    │    │         │              │    ├─Node 365: Controversial Figures & Technologies
+     │         │         │         │    │    │         │              │    │    ├─■──Adolf Hitler and Nazism ── Topic: 65
+     │         │         │         │    │    │         │              │    │    └─■──OpenAI Join & Oddities ── Topic: 201
+     │         │         │         │    │    │         │              │    └─Node 362: Online Voice & Identity
+     │         │         │         │    │    │         │              │         ├─■──Join Voice Chat Now ── Topic: 80
+     │         │         │         │    │    │         │              │         └─■──Doomguy & Online Persona ── Topic: 104
+     │         │         │         │    │    │         │              └─Node 346: Inappropriate Chat Interactions
+     │         │         │         │    │    │         │                   ├─■──Chat Confusion & Purpose ── Topic: 40
+     │         │         │         │    │    │         │                   └─■──Gay Retard Joins Chat 1926801217 ── Topic: 232
+     │         │         │         │    │    │         └─Node 576: Internet Humor & Memes
+     │         │         │         │    │    │              ├─Node 560: Online Humor & Memes
+     │         │         │         │    │    │              │    ├─Node 460: Online Communities & Memes
+     │         │         │         │    │    │              │    │    ├─■──Soy & Internet Culture ── Topic: 247
+     │         │         │         │    │    │              │    │    └─Node 384: Online Conflict & Harassment
+     │         │         │         │    │    │              │    │         ├─■──Spanish questions and insults ── Topic: 172
+     │         │         │         │    │    │              │    │         └─■──Drachenlord & School Lies ── Topic: 19
+     │         │         │         │    │    │              │    └─Node 555: Internet Humor & Bots
+     │         │         │         │    │    │              │         ├─Node 529: Digital Companion & Network
+     │         │         │         │    │    │              │         │    ├─Node 404: Automated Account Activity
+     │         │         │         │    │    │              │         │    │    ├─■──Rose Bot Controversy/Discussions ── Topic: 189
+     │         │         │         │    │    │              │         │    │    └─■──Bots and Bot Mentions ── Topic: 97
+     │         │         │         │    │    │              │         │    └─Node 403: Exploitative Content & Pseudonyms
+     │         │         │         │    │    │              │         │         ├─■──Netkas & Cuck Content ── Topic: 74
+     │         │         │         │    │    │              │         │         └─■──Felenov & Related Names ── Topic: 174
+     │         │         │         │    │    │              │         └─Node 539: Informal Online Communication
+     │         │         │         │    │    │              │              ├─Node 419: Customer Engagement & Value
+     │         │         │         │    │    │              │              │    ├─■──Bigger & Repetition ── Topic: 12
+     │         │         │         │    │    │              │              │    └─■──Positive Customer Experience/Service ── Topic: 253
+     │         │         │         │    │    │              │              └─Node 533: Internet Slang & Reactions
+     │         │         │         │    │    │              │                   ├─Node 518: Internet Humor & Slang
+     │         │         │         │    │    │              │                   │    ├─Node 494: Internet Humor & Culture
+     │         │         │         │    │    │              │                   │    │    ├─■──kk repetition and memes ── Topic: 243
+     │         │         │         │    │    │              │                   │    │    └─Node 478: Chat Command & Expression
+     │         │         │         │    │    │              │                   │    │         ├─■──Variations of "lol" ── Topic: 39
+     │         │         │         │    │    │              │                   │    │         └─■──/q Command & Requests ── Topic: 93
+     │         │         │         │    │    │              │                   │    └─Node 516: Internet Culture & Memes
+     │         │         │         │    │    │              │                   │         ├─Node 506: Informal Positive Acknowledgement
+     │         │         │         │    │    │              │                   │         │    ├─Node 503: Informal Affirmation & Reaction
+     │         │         │         │    │    │              │                   │         │    │    ├─Node 496: Negative Self-Talk Patterns
+     │         │         │         │    │    │              │                   │         │    │    │    ├─■──Ok & Overthinking Concerns ── Topic: 266
+     │         │         │         │    │    │              │                   │         │    │    │    └─Node 495: Intensifiers & Positive Feedback
+     │         │         │         │    │    │              │                   │         │    │    │         ├─■──Extreme Profanity & Expletives ── Topic: 288
+     │         │         │         │    │    │              │                   │         │    │    │         └─■──Affirmation and Agreement ── Topic: 157
+     │         │         │         │    │    │              │                   │         │    │    └─Node 502: Unexpected Input Responses
+     │         │         │         │    │    │              │                   │         │    │         ├─Node 501: Negative Online Reactions
+     │         │         │         │    │    │              │                   │         │    │         │    ├─■──Disgust & Negative Commentary ── Topic: 294
+     │         │         │         │    │    │              │                   │         │    │         │    └─Node 500: Positive Response Validation
+     │         │         │         │    │    │              │                   │         │    │         │         ├─Node 499: Digital Culture & Expressions
+     │         │         │         │    │    │              │                   │         │    │         │         │    ├─■──qrand Random Quote Bot Command ── Topic: 107
+     │         │         │         │    │    │              │                   │         │    │         │         │    └─■──LMFAO internet slang phrase ── Topic: 256
+     │         │         │         │    │    │              │                   │         │    │         │         └─■──Yep Checks & Affirmations ── Topic: 248
+     │         │         │         │    │    │              │                   │         │    │         └─Node 498: Positive Communication & Mindset
+     │         │         │         │    │    │              │                   │         │    │              ├─Node 497: Online Harmful Content
+     │         │         │         │    │    │              │                   │         │    │              │    ├─■──Violent online threats & hate ── Topic: 156
+     │         │         │         │    │    │              │                   │         │    │              │    └─■──Warns & Dubious Takes ── Topic: 298
+     │         │         │         │    │    │              │                   │         │    │              └─■──Think Simple Sweetness ── Topic: 219
+     │         │         │         │    │    │              │                   │         │    └─Node 492: Digital Expression of Amusement
+     │         │         │         │    │    │              │                   │         │         ├─■──Repeated Laughter Sounds ── Topic: 282
+     │         │         │         │    │    │              │                   │         │         └─■──LMAO & Internet Humor ── Topic: 60
+     │         │         │         │    │    │              │                   │         └─Node 509: Urgent Assistance & Moderation
+     │         │         │         │    │    │              │                   │              ├─Node 475: Online Culture & Memes
+     │         │         │         │    │    │              │                   │              │    ├─■──Kek & Internet Slang ── Topic: 221
+     │         │         │         │    │    │              │                   │              │    └─■──RIP & Online Reactions ── Topic: 263
+     │         │         │         │    │    │              │                   │              └─Node 484: Restricted Content & Access
+     │         │         │         │    │    │              │                   │                   ├─■──Booba & Related Terms ── Topic: 240
+     │         │         │         │    │    │              │                   │                   └─■──Admin Access Required ── Topic: 258
+     │         │         │         │    │    │              │                   └─Node 531: Informal Exclamations of Surprise
+     │         │         │         │    │    │              │                        ├─Node 443: Unexpected Reactions & Commentary
+     │         │         │         │    │    │              │                        │    ├─■──Exclamatory Expressions of Surprise/Dismay ── Topic: 180
+     │         │         │         │    │    │              │                        │    └─■──Real Talk & WTF Moments ── Topic: 185
+     │         │         │         │    │    │              │                        └─Node 438: Internet Slang & Phrases
+     │         │         │         │    │    │              │                             ├─■──Fr Fr No Cap ── Topic: 292
+     │         │         │         │    │    │              │                             └─■──Common "Bruh" Internet Expression ── Topic: 259
+     │         │         │         │    │    │              └─Node 345: Federal Online Activity
+     │         │         │         │    │    │                   ├─■──Fedposting & Fedpost Discussion ── Topic: 138
+     │         │         │         │    │    │                   └─■──Federal Bureau of Investigation ── Topic: 184
+     │         │         │         │    │    └─Node 316: Online Communication Authenticity
+     │         │         │         │    │         ├─■──Repetitive "Hahaha" & Slang ── Topic: 268
+     │         │         │         │    │         └─■──Reality vs. Fake ── Topic: 94
+     │         │         │         │    └─Node 591: Online Harassment & Doxxing
+     │         │         │         │         ├─Node 584: Online Platform Controversies
+     │         │         │         │         │    ├─Node 574: Account Access & Notifications
+     │         │         │         │         │    │    ├─Node 331: Twitter Platform & Leadership
+     │         │         │         │         │    │    │    ├─■──Elon Musk & Twitter ── Topic: 150
+     │         │         │         │         │    │    │    └─■──Twitter Accounts & Usage ── Topic: 70
+     │         │         │         │         │    │    └─Node 430: Account Access & Recovery
+     │         │         │         │         │    │         ├─Node 334: Account Security & Access
+     │         │         │         │         │    │         │    ├─■──Password Leak & Reset ── Topic: 106
+     │         │         │         │         │    │         │    └─■──Account access and management ── Topic: 301
+     │         │         │         │         │    │         └─■──Requesting Invite Codes/Invitations ── Topic: 134
+     │         │         │         │         │    └─Node 580: Online Harassment & Disputes
+     │         │         │         │         │         ├─Node 578: Online Security & Agriculture
+     │         │         │         │         │         │    ├─Node 465: Online Harassment & Extremism
+     │         │         │         │         │         │    │    ├─■──Filters & Online Communities ── Topic: 179
+     │         │         │         │         │         │    │    └─Node 320: Online Platform Monitoring & Status
+     │         │         │         │         │         │    │         ├─■──Kiwi Farms Online Forum ── Topic: 5
+     │         │         │         │         │         │    │         └─■──Farms Status & Outages ── Topic: 33
+     │         │         │         │         │         │    └─Node 452: Network Anonymity & Security
+     │         │         │         │         │         │         ├─■──DDoS Attacks & Mitigation ── Topic: 148
+     │         │         │         │         │         │         └─Node 379: Anonymous Network Access Methods
+     │         │         │         │         │         │              ├─Node 355: Connectivity & Network Status
+     │         │         │         │         │         │              │    ├─■──Site Down or Loading Issues ── Topic: 75
+     │         │         │         │         │         │              │    └─■──Tor Network Status ── Topic: 108
+     │         │         │         │         │         │              └─■──VPN & Netherlands Usage ── Topic: 154
+     │         │         │         │         │         └─Node 569: Online Persona Investigations
+     │         │         │         │         │              ├─Node 542: Online Harassment & Doxing
+     │         │         │         │         │              │    ├─Node 493: Online Persona & Lore
+     │         │         │         │         │              │    │    ├─Node 380: Digital Culture & Fandom
+     │         │         │         │         │              │    │    │    ├─■──Hindoodoo & Online Personalities ── Topic: 35
+     │         │         │         │         │              │    │    │    └─■──DKF & Real DKspiracy ── Topic: 124
+     │         │         │         │         │              │    │    └─Node 400: Fallout 76 Lore & Characters
+     │         │         │         │         │              │    │         ├─■──Sinseer Fallout 76 Mystery ── Topic: 202
+     │         │         │         │         │              │    │         └─■──John & Identity Ambiguity ── Topic: 261
+     │         │         │         │         │              │    └─Node 522: Online Harassment & Exploitation
+     │         │         │         │         │              │         ├─Node 444: Online Harassment & Doxing
+     │         │         │         │         │              │         │    ├─■──Lucas Roberts mentions ── Topic: 130
+     │         │         │         │         │              │         │    └─Node 408: Online Harassment & Doxing
+     │         │         │         │         │              │         │         ├─■──Keffals Destiny Thread ── Topic: 29
+     │         │         │         │         │              │         │         └─Node 392: Security & Privacy Incidents
+     │         │         │         │         │              │         │              ├─■──KF Service Disruption ── Topic: 48
+     │         │         │         │         │              │         │              └─■──Doxing and Personal Information ── Topic: 59
+     │         │         │         │         │              │         └─Node 370: Online Community Interactions
+     │         │         │         │         │              │              ├─■──Understanding the Thread Discussion ── Topic: 193
+     │         │         │         │         │              │              └─■──Lolcow Discussions & Content ── Topic: 159
+     │         │         │         │         │              └─Node 545: Streamer Content & Archives
+     │         │         │         │         │                   ├─Node 450: Streaming Media Preservation
+     │         │         │         │         │                   │    ├─■──Web page archiving & access ── Topic: 249
+     │         │         │         │         │                   │    └─Node 437: Live Stream Management
+     │         │         │         │         │                   │         ├─Node 364: Video Access & Sources
+     │         │         │         │         │                   │         │    ├─■──Finding the Full Video ── Topic: 218
+     │         │         │         │         │                   │         │    └─■──Streaming Channels & Content ── Topic: 51
+     │         │         │         │         │                   │         └─■──Mati Streaming Status & Schedule ── Topic: 216
+     │         │         │         │         │                   └─Node 520: Seasonal Holiday Greetings & Names
+     │         │         │         │         │                        ├─Node 399: Seasonal & Holiday Content
+     │         │         │         │         │                        │    ├─■──Jersh & Related Content ── Topic: 79
+     │         │         │         │         │                        │    └─■──Happy New Year Celebrations ── Topic: 58
+     │         │         │         │         │                        └─Node 435: Personal Names & Attribution
+     │         │         │         │         │                             ├─Node 389: Data & Individual Profiles
+     │         │         │         │         │                             │    ├─■──Discussions About Josh ── Topic: 15
+     │         │         │         │         │                             │    └─■──Understanding Null Values ── Topic: 50
+     │         │         │         │         │                             └─■──Chantal: Name & Identity ── Topic: 257
+     │         │         │         │         └─Node 321: Character Relationship Analysis
+     │         │         │         │              ├─■──Liz & Fong Connections ── Topic: 91
+     │         │         │         │              └─■──Dong Gone & Variations ── Topic: 244
+     │         │         │         └─Node 313: Initial Conversational Exchanges
+     │         │         │              ├─■──Varied "Hi" Greetings & Emoticons ── Topic: 194
+     │         │         │              └─■──Simple Greeting & Repetition ── Topic: 140
+     │         │         └─Node 307: Sneed's Viral Content
+     │         │              ├─■──Sneed and Sneedchat Memes ── Topic: 46
+     │         │              └─■──Sneed Owned Lmao ── Topic: 183
+     │         └─Node 305: Prohibited & Dubious Items
+     │              ├─■──Haram & Questionable Content ── Topic: 235
+     │              └─■──Haram & Pickle Concerns ── Topic: 112
+     └─Node 314: Sexual Orientation Targeting
+          ├─Node 308: Sexual Orientation Demographics
+          │    ├─■──Gay identity & orientation ── Topic: 17
+          │    └─■──Percentage of Gay Identity ── Topic: 274
+          └─■──Gay & Exact Match Focus ── Topic: 281

@@ -1,0 +1,456 @@
+Topic tree root node: Node 454: Darknet Market Access & Security
+
+├─Node 441: Controlled Substance Investigations
+│    ├─Node 383: Muscle Relaxants & Sedatives
+│    │    ├─Node 301: Controlled Substance Manufacturing Equipment
+│    │    │    ├─■──Hulk Bus Review & Press ── Topic: 143
+│    │    │    └─■──Pill Press Identification & Safety ── Topic: 94
+│    │    └─Node 250: Alprazolam Product & Reviews
+│    │         ├─Node 238: Counterfeit Alprazolam & Fraud
+│    │         │    ├─■──Ziploc: Fake Xanax & Scams ── Topic: 77
+│    │         │    └─■──Alprazolam Bars & Pricing ── Topic: 4
+│    │         └─■──Real Alprazolam Bar Review ── Topic: 67
+│    └─Node 438: International Trafficking & Enforcement
+│         ├─Node 302: International Shipping & Customs
+│         │    ├─Node 297: Netherlands Import Regulations
+│         │    │    ├─■──Country-Based Information & Location ── Topic: 113
+│         │    │    └─■──Netherlands shipping restrictions & risks ── Topic: 144
+│         │    └─Node 288: International Order Fulfillment
+│         │         ├─■──US shipping availability ── Topic: 78
+│         │         └─■──UK & Canadian Vendors Search ── Topic: 129
+│         └─Node 437: Illicit Substance Legal Issues
+│              ├─Node 434: Controlled Substance Product Feedback
+│              │    ├─Node 426: Medication & Vendor Validation
+│              │    │    ├─Node 363: Vendor & Customer Validation
+│              │    │    │    ├─Node 279: Contact & Vendor Status
+│              │    │    │    │    ├─■──Unreachable contact, possible vacation ── Topic: 37
+│              │    │    │    │    └─■──Lost vendor Dream Market contacts ── Topic: 96
+│              │    │    │    └─Node 314: Vendor Trust & Reputation
+│              │    │    │         ├─Node 284: Vendor Due Diligence
+│              │    │    │         │    ├─■──Vendor Verification & Reviews ── Topic: 87
+│              │    │    │         │    └─■──Empire vendor recommendations & reliability ── Topic: 65
+│              │    │    │         └─Node 293: Vendor Reputation & Feedback
+│              │    │    │              ├─Node 258: Vendor Reliability & Orders
+│              │    │    │              │    ├─■──Vendor legitimacy & pill orders ── Topic: 117
+│              │    │    │              │    └─Node 245: Vendor Trust & Reputation
+│              │    │    │              │         ├─■──Vendor legitimacy & reviews ── Topic: 30
+│              │    │    │              │         └─■──Vendor Reviews & Experiences ── Topic: 91
+│              │    │    │              └─■──Marketplace Feedback & Reviews ── Topic: 47
+│              │    │    └─Node 413: Stimulant & Benzodiazepine Substances
+│              │    │         ├─Node 275: Controlled Substance Medications
+│              │    │         │    ├─Node 254: Controlled Substance Distribution
+│              │    │         │    │    ├─■──Adderall Sales & Pharmacy Script ── Topic: 49
+│              │    │         │    │    └─■──Illicit Online Pill Marketplace ── Topic: 56
+│              │    │         │    └─■──Oxycodone Pills & Vendor Review ── Topic: 73
+│              │    │         └─Node 340: Novel Psychoactive Substances
+│              │    │              ├─Node 287: Novel Psychoactive Substance Sources
+│              │    │              │    ├─■──Etizolam, Pellets & Powder Sales ── Topic: 164
+│              │    │              │    └─■──RC Benzo Vendor - DarkNetAlchemist ── Topic: 188
+│              │    │              └─Node 312: Chemical Sourcing & Vendors
+│              │    │                   ├─■──RC Vendor & Source Discussion ── Topic: 163
+│              │    │                   └─■──Research Chems from China ── Topic: 100
+│              │    └─Node 424: Illicit Substance Delivery Methods
+│              │         ├─Node 416: Illicit Substance Sourcing
+│              │         │    ├─Node 280: Lysergic Acid Diethylamide Sources
+│              │         │    │    ├─■──LSD Tabs & Vendors ── Topic: 185
+│              │         │    │    └─■──US LSD Vendors & Sources ── Topic: 90
+│              │         │    └─Node 406: Illicit Substance Use
+│              │         │         ├─Node 366: Illicit Substance Quality & Supply
+│              │         │         │    ├─Node 342: Illicit Substance Sourcing
+│              │         │         │    │    ├─Node 264: US Cocaine Marketplace Information
+│              │         │         │    │    │    ├─■──Cocaine & MDMA Sales ── Topic: 71
+│              │         │         │    │    │    └─■──USA Cocaine Vendor Reviews ── Topic: 10
+│              │         │         │    │    └─Node 248: MDMA Vendors & Reviews
+│              │         │         │    │         ├─■──MDMA Product & Vendor Reviews ── Topic: 204
+│              │         │         │    │         └─■──MDMA vendor - Australia domestic ── Topic: 53
+│              │         │         │    └─Node 327: Cannabis Quantity & Discretion
+│              │         │         │         ├─Node 281: Cannabis Flower & Pricing
+│              │         │         │         │    ├─■──Bulk Flower Pricing & Grams ── Topic: 8
+│              │         │         │         │    └─Node 247: Cannabis Commerce & Security
+│              │         │         │         │         ├─■──Cannabis sales, worldwide shipping ── Topic: 9
+│              │         │         │         │         └─■──Cannabis vendor scamming reports ── Topic: 149
+│              │         │         │         └─Node 291: Cannabis Product Evaluation
+│              │         │         │              ├─Node 256: Product Evaluation & Standards
+│              │         │         │              │    ├─■──Product Stealth & Quality ── Topic: 42
+│              │         │         │              │    └─■──Cannabis Reviews & Quality ── Topic: 55
+│              │         │         │              └─■──Budget Shatter & Distillate Review ── Topic: 126
+│              │         │         └─Node 396: Psychedelic & Dissociative Substances
+│              │         │              ├─Node 353: Dissociative & Stimulant Substances
+│              │         │              │    ├─Node 300: Controlled Substance Analysis
+│              │         │              │    │    ├─■──UK Hash & Vendor Review ── Topic: 120
+│              │         │              │    │    └─Node 274: Novel Psychoactive Substance Trends
+│              │         │              │    │         ├─■──UK Speed & Hash Sales ── Topic: 69
+│              │         │              │    │         └─■──Domestic S-Ketamine Quality & Review ── Topic: 12
+│              │         │              │    └─■──Heineken Express Link/Speed ── Topic: 167
+│              │         │              └─Node 387: Psychedelic Substance Research
+│              │         │                   ├─Node 316: Compliance & Sample Requests
+│              │         │                   │    ├─■──Energy Control Drug Testing ── Topic: 63
+│              │         │                   │    └─■──Request for Free Samples ── Topic: 54
+│              │         │                   └─Node 323: Psychedelic Substance Experiences
+│              │         │                        ├─■──Golden Teacher Psilocybe Cubensis Shrooms ── Topic: 38
+│              │         │                        └─■──DMT, Freebase & Experiences ── Topic: 80
+│              │         └─Node 311: Vaping Products & Concentrates
+│              │              ├─Node 277: Cannabis Oil Products Review
+│              │              │    ├─■──Best Value Vape Cartridges ── Topic: 26
+│              │              │    └─■──Potent Raw Distillate Review ── Topic: 152
+│              │              └─■──Juul Pods & Distillate Review ── Topic: 217
+│              └─Node 414: Illicit Substance Analysis
+│                   ├─Node 263: Substance Purification & Routes
+│                   │    ├─■──Cocaine A/B Extraction Guide ── Topic: 182
+│                   │    └─■──Snorting, washing, recrystallizing MXE chemicals ── Topic: 64
+│                   └─Node 388: Illicit Substance Trafficking Channels
+│                        ├─Node 325: Illicit Drug Trafficking Methods
+│                        │    ├─Node 309: Illicit Substance Diversion & Quality
+│                        │    │    ├─■──DNM Meth Quality & 9000 ── Topic: 21
+│                        │    │    └─■──Fentanyl sourcing and use ── Topic: 39
+│                        │    └─Node 285: Discreet Delivery & Security
+│                        │         ├─Node 255: Illicit Goods Trafficking
+│                        │         │    ├─■──Secure Mail & Package Delivery ── Topic: 0
+│                        │         │    └─■──Drug Dealing & Operational Security ── Topic: 16
+│                        │         └─■──Drug Stash & Opsec ── Topic: 186
+│                        └─Node 270: Illicit Online Activity & Law Enforcement
+│                             ├─■──Dark Web Drug Investigations ── Topic: 3
+│                             └─■──Police Interactions & Rights ── Topic: 209
+└─Node 453: Secure Bitcoin Transactions
+     ├─Node 452: Dark Web Market Access
+     │    ├─Node 450: Account & Transaction Issues
+     │    │    ├─Node 449: Online Fraud & Security
+     │    │    │    ├─Node 442: Cryptonia Investment & Risks
+     │    │    │    │    ├─Node 243: Cryptonia Marketplace Comparison
+     │    │    │    │    │    ├─Node 234: Cryptonia Platform Concerns
+     │    │    │    │    │    │    ├─■──User's Cryptonia Account Issues ── Topic: 159
+     │    │    │    │    │    │    └─■──Cryptonia: Walletless System Debunked ── Topic: 112
+     │    │    │    │    │    └─■──Cryptonia vs Empire Market ── Topic: 214
+     │    │    │    │    └─Node 435: Fraudulent Online Marketplaces & Escrows
+     │    │    │    │         ├─Node 431: Fraudulent Financial Schemes
+     │    │    │    │         │    ├─Node 427: Distressed Debt & Resolution
+     │    │    │    │         │    │    ├─Node 239: Nightmare Exploitation & Fraud
+     │    │    │    │         │    │    │    ├─■──Recurring Nightmare Themes & Titles ── Topic: 203
+     │    │    │    │         │    │    │    └─■──Nightmare Market Exit Scam ── Topic: 97
+     │    │    │    │         │    │    └─Node 402: Secure Financial Transactions
+     │    │    │    │         │    │         ├─Node 375: Financial Market Connections
+     │    │    │    │         │    │         │    ├─Node 336: Supply Chain Financial Instruments
+     │    │    │    │         │    │         │    │    ├─■──Vendor Bond Refund & Value ── Topic: 51
+     │    │    │    │         │    │         │    │    └─■──Samsara Market & Waterchain ── Topic: 135
+     │    │    │    │         │    │         │    └─Node 359: Italian Market & Listings
+     │    │    │    │         │    │         │         ├─■──Berlusconi & Market Discussion ── Topic: 61
+     │    │    │    │         │    │         │         └─Node 351: Illicit Marketplace Activities
+     │    │    │    │         │    │         │              ├─Node 331: Dark Web Marketplaces
+     │    │    │    │         │    │         │              │    ├─Node 268: Vendor & Listing Management
+     │    │    │    │         │    │         │              │    │    ├─■──Apollon Vendor Listing Clone Feature ── Topic: 132
+     │    │    │    │         │    │         │              │    │    └─■──Market & Vendor Listings ── Topic: 1
+     │    │    │    │         │    │         │              │    └─■──Apollon Market / AlwaysNever ── Topic: 66
+     │    │    │    │         │    │         │              └─■──Illegal Guns & Drug Sales ── Topic: 141
+     │    │    │    │         │    │         └─Node 378: Secure Decentralized Transactions
+     │    │    │    │         │    │              ├─Node 321: Secure Decentralized Transactions
+     │    │    │    │         │    │              │    ├─■──OpenBazaar Decentralized Marketplace ── Topic: 142
+     │    │    │    │         │    │              │    └─■──MultiSig Escrow & Options ── Topic: 131
+     │    │    │    │         │    │              └─Node 354: Illicit Transaction Methods
+     │    │    │    │         │    │                   ├─Node 346: Online Marketplace Trust & Safety
+     │    │    │    │         │    │                   │    ├─■──Tochka Market Scam Prevention ── Topic: 108
+     │    │    │    │         │    │                   │    └─Node 272: Darknet Marketplace Support Issues
+     │    │    │    │         │    │                   │         ├─■──Darknet Escrow Service ── Topic: 24
+     │    │    │    │         │    │                   │         └─■──NMM/Empire FE Vendor Issues ── Topic: 119
+     │    │    │    │         │    │                   └─■──Darknet Direct Deals (DD) ── Topic: 103
+     │    │    │    │         │    └─Node 412: Fraudulent Scheme Lifecycle
+     │    │    │    │         │         ├─Node 299: Fraudulent Scheme Analysis
+     │    │    │    │         │         │    ├─Node 246: Telegram Fraud & Scams
+     │    │    │    │         │         │    │    ├─■──Selective Telegram Scammer ── Topic: 81
+     │    │    │    │         │         │    │    └─■──Obvious Money Scam Reports ── Topic: 29
+     │    │    │    │         │         │    └─■──Exit Scam Investigation ── Topic: 50
+     │    │    │    │         │         └─Node 242: Empire Market Discontinuation & Access
+     │    │    │    │         │              ├─■──Empire Market Exit Scam ── Topic: 83
+     │    │    │    │         │              └─■──Empire Market Access & Info ── Topic: 46
+     │    │    │    │         └─Node 328: WSM Support & Requests
+     │    │    │    │              ├─Node 249: WSM Community & Security
+     │    │    │    │              │    ├─■──WSM Exit Scam & Proxies ── Topic: 210
+     │    │    │    │              │    └─■──WSM Discussion & Welcome ── Topic: 226
+     │    │    │    │              └─■──WSM Store Link Request ── Topic: 172
+     │    │    │    └─Node 422: Service Availability & Security
+     │    │    │         ├─Node 361: Link Health & Mirroring
+     │    │    │         │    ├─Node 262: System Operational Status
+     │    │    │         │    │    ├─■──System Working As Expected ── Topic: 102
+     │    │    │         │    │    └─■──Main Link Status/Working ── Topic: 88
+     │    │    │         │    └─Node 298: Broken & Mirror Resources
+     │    │    │         │         ├─Node 237: Darkfail Empire Link Monitoring
+     │    │    │         │         │    ├─■──Dark.fail Link Status ── Topic: 79
+     │    │    │         │         │    └─■──Empire Links on Darkfail ── Topic: 68
+     │    │    │         │         └─■──Working Mirror Links ── Topic: 6
+     │    │    │         └─Node 364: Bot Mitigation & Security
+     │    │    │              ├─Node 322: Network Disruption & Attacks
+     │    │    │              │    ├─■──Same Issue/Problem Reported ── Topic: 44
+     │    │    │              │    └─Node 310: System Access & Security
+     │    │    │              │         ├─Node 259: System Availability & Access
+     │    │    │              │         │    ├─■──Site Maintenance & Downtime ── Topic: 25
+     │    │    │              │         │    └─■──Market Maintenance & Access Issues ── Topic: 139
+     │    │    │              │         └─■──DDoS Attacks & Tor ── Topic: 7
+     │    │    │              └─■──CAPTCHA testing & black numbers ── Topic: 75
+     │    │    └─Node 440: Order & Delivery Issues
+     │    │         ├─Node 370: Ticket & Deposit Management
+     │    │         │    ├─Node 350: Withdrawal & Account Access
+     │    │         │    │    ├─■──Nightmare Market PIN Reset Issues ── Topic: 127
+     │    │         │    │    └─Node 289: Funds & Support Issues
+     │    │         │    │         ├─■──Withdrawals working, slow support ── Topic: 35
+     │    │         │    │         └─Node 231: Deposit & Payment Problems
+     │    │         │    │              ├─■──Empire Market Deposit Issues ── Topic: 43
+     │    │         │    │              └─■──Bitcoin Deposit Address Issues ── Topic: 2
+     │    │         │    └─Node 252: Support Request Management
+     │    │         │         ├─■──Support Tickets & Se7en Link ── Topic: 18
+     │    │         │         └─■──Open Support Ticket ── Topic: 148
+     │    │         └─Node 401: Order & Refund Issues
+     │    │              ├─Node 341: Order Issue Resolution
+     │    │              │    ├─Node 286: Order & Payment Issues
+     │    │              │    │    ├─■──Missing Refund Address & Support ── Topic: 116
+     │    │              │    │    └─■──Order Cancellation & Vendor Control ── Topic: 125
+     │    │              │    └─Node 290: Order Completion & Issues
+     │    │              │         ├─■──Auto-Finalize & Extension Options ── Topic: 178
+     │    │              │         └─■──Dispute Resolution & Refunds ── Topic: 11
+     │    │              └─Node 348: Order Fulfillment & Delays
+     │    │                   ├─Node 257: Order & Delivery Status
+     │    │                   │    ├─■──Waiting for Package Delivery ── Topic: 34
+     │    │                   │    └─Node 233: Order Fulfillment Issues
+     │    │                   │         ├─■──Delayed & Unshipped Orders ── Topic: 33
+     │    │                   │         └─■──Orders shipped, not received ── Topic: 41
+     │    │                   └─■──Long processing & waiting times ── Topic: 48
+     │    └─Node 451: Privacy Focused Transactions & Links
+     │         ├─Node 447: Secure Digital Wallets & Keys
+     │         │    ├─Node 305: PGP Key Management
+     │         │    │    ├─■──PGP Public Key Blocks ── Topic: 136
+     │         │    │    └─Node 265: Account Security Settings
+     │         │    │         ├─Node 236: PGP Key Management
+     │         │    │         │    ├─■──PGP Encryption & Decryption ── Topic: 118
+     │         │    │         │    └─■──PGP Key Verification & Old Keys ── Topic: 98
+     │         │    │         └─■──Two-Factor Authentication Status ── Topic: 31
+     │         │    └─Node 445: Private Financial Transactions
+     │         │         ├─Node 411: Secure Cryptocurrency & Tails
+     │         │         │    ├─Node 332: Monero Wallet & Access
+     │         │         │    │    ├─Node 235: Cryptocurrency Exchange & Wallets
+     │         │         │    │    │    ├─■──XMR wallet & BTC issues ── Topic: 70
+     │         │         │    │    │    └─■──Monero & BTC Exchange Guide ── Topic: 27
+     │         │         │    │    └─Node 295: Monero Wallet & Privacy
+     │         │         │    │         ├─■──Monero Privacy & Cryptocurrency ── Topic: 84
+     │         │         │    │         └─■──Monero GUI Wallet Setup Issue ── Topic: 154
+     │         │         │    └─Node 253: Secure Cryptocurrency with Tails
+     │         │         │         ├─■──Tails OS & Persistence ── Topic: 45
+     │         │         │         └─■──Electrum on Tails OS ── Topic: 110
+     │         │         └─Node 436: Secure Communication & Finance
+     │         │              ├─Node 405: Anonymity Network & Access
+     │         │              │    ├─Node 373: Dark Web Browser Exploits
+     │         │              │    │    ├─■──Oculus Cum Leak & IPs ── Topic: 195
+     │         │              │    │    └─Node 360: Dark Web Access & Resources
+     │         │              │    │         ├─Node 344: Dark Web Access Methods
+     │         │              │    │         │    ├─■──Onion Links & Addresses ── Topic: 32
+     │         │              │    │         │    └─Node 330: Enhanced Privacy & Security
+     │         │              │    │         │         ├─■──Disable Javascript via about:config ── Topic: 60
+     │         │              │    │         │         └─■──Secure Email Services ── Topic: 137
+     │         │              │    │         └─■──Clearnet Websites & Links ── Topic: 173
+     │         │              │    └─Node 365: Secure Communication & Anonymity
+     │         │              │         ├─Node 294: Anonymity & Network Concealment
+     │         │              │         │    ├─■──Carding & Proxy Techniques ── Topic: 170
+     │         │              │         │    └─■──VPN Usage: Negative Advice ── Topic: 128
+     │         │              │         └─Node 318: Secure Communication & Privacy
+     │         │              │              ├─■──Phone security and surveillance risks ── Topic: 40
+     │         │              │              └─■──Wickr Messaging & Deals ── Topic: 28
+     │         │              └─Node 423: Illicit Financial Instruments
+     │         │                   ├─Node 420: Illicit Financial Instruments
+     │         │                   │    ├─Node 376: Payment Fraud & Gift Cards
+     │         │                   │    │    ├─Node 343: Illicit Financial Credentials
+     │         │                   │    │    │    ├─■──Stolen Financial Data Sales ── Topic: 193
+     │         │                   │    │    │    └─Node 271: Gift Card Fraud Methods
+     │         │                   │    │    │         ├─■──Carding & Buying Cards ── Topic: 85
+     │         │                   │    │    │         └─■──Amazon Gift Card Carding Method ── Topic: 201
+     │         │                   │    │    └─Node 292: Safety & Support Resources
+     │         │                   │    │         ├─■──Guides & Tutorials Help ── Topic: 59
+     │         │                   │    │         └─■──Fraud Resources & Links ── Topic: 76
+     │         │                   │    └─Node 339: Document Authenticity & Fraud
+     │         │                   │         ├─Node 276: Illicit Document & Currency
+     │         │                   │         │    ├─■──Counterfeit Money Sales Offer ── Topic: 17
+     │         │                   │         │    └─■──Fake IDs & Passports ── Topic: 13
+     │         │                   │         └─■──Authenticity & Fake Content ── Topic: 211
+     │         │                   └─Node 308: Payment Methods & Transfers
+     │         │                        ├─Node 260: Illicit Cryptocurrency Transactions
+     │         │                        │    ├─■──Buying Bitcoin with Cash ── Topic: 62
+     │         │                        │    └─■──Darknet Money Laundering Strategies ── Topic: 224
+     │         │                        └─Node 269: Funds Disbursement & Access
+     │         │                             ├─■──Bank Drop Cashout Methods ── Topic: 52
+     │         │                             └─■──Paypal Accounts & Transfers ── Topic: 74
+     │         └─Node 448: Connection & Project Management
+     │              ├─Node 446: Adhesive Product & Linkage
+     │              │    ├─Node 439: Prize & Adhesive Promotions
+     │              │    │    ├─Node 355: Specialty Adhesive & Produce
+     │              │    │    │    ├─Node 317: Adhesive Prize Promotions
+     │              │    │    │    │    ├─■──Win Warner Brothers XTC ── Topic: 183
+     │              │    │    │    │    └─Node 278: Competitive Adhesive Challenge
+     │              │    │    │    │         ├─■──Desire to win ── Topic: 124
+     │              │    │    │    │         └─■──Win 125g Gorilla Glue ── Topic: 89
+     │              │    │    │    └─■──Kalamata Cheese Dark Star Strain ── Topic: 219
+     │              │    │    └─Node 307: Prizes & Chance Outcomes
+     │              │    │         ├─■──GrassCompany Lottery & Winners ── Topic: 36
+     │              │    │         └─Node 244: Number Selection & Probability
+     │              │    │              ├─■──Lucky Number Guessing ── Topic: 14
+     │              │    │              └─■──Lucky Numbers & Selection ── Topic: 115
+     │              │    └─Node 444: Media Asset Management
+     │              │         ├─Node 443: Online Interaction & Content
+     │              │         │    ├─Node 432: Online Discussion Engagement Metrics
+     │              │         │    │    ├─Node 374: Content Moderation & Policy
+     │              │         │    │    │    ├─Node 337: Content Discovery & Ranking
+     │              │         │    │    │    │    ├─■──Post Sorting & Visibility Features ── Topic: 189
+     │              │         │    │    │    │    └─Node 334: Dread Community Engagement & Metrics
+     │              │         │    │    │    │         ├─Node 303: Dread Management & Governance
+     │              │         │    │    │    │         │    ├─■──Subdread Creation & Requests ── Topic: 133
+     │              │         │    │    │    │         │    └─■──Dread Platform & Community Rules ── Topic: 15
+     │              │         │    │    │    │         └─■──Dread Karma & Voting System ── Topic: 174
+     │              │         │    │    │    └─Node 335: Prohibited Content & Promotion
+     │              │         │    │    │         ├─Node 296: Platform Governance & Disputes
+     │              │         │    │    │         │    ├─■──Community Moderation & Free Speech ── Topic: 205
+     │              │         │    │    │         │    └─■──Darnetmarkets Ban Inquiry ── Topic: 134
+     │              │         │    │    │         └─■──No Vendor Ads Allowed ── Topic: 145
+     │              │         │    │    └─Node 266: Illicit Online Platforms
+     │              │         │    │         ├─■──DarkNet Markets & Links ── Topic: 58
+     │              │         │    │         └─Node 251: Darknet Commerce & Community
+     │              │         │    │              ├─■──Darknet Market Vendor Reviews ── Topic: 86
+     │              │         │    │              └─■──Darknet Marketplaces & Users ── Topic: 5
+     │              │         │    └─Node 433: Security & Identity Management
+     │              │         │         ├─Node 430: Emerging Tech & Security
+     │              │         │         │    ├─Node 404: Design & Interest Exploration
+     │              │         │         │    │    ├─Node 386: Community & Recreational Chemistry
+     │              │         │         │    │    │    ├─Node 377: Research Chemicals & Sourcing
+     │              │         │         │    │    │    │    ├─■──Finding a good plug ── Topic: 221
+     │              │         │         │    │    │    │    └─Node 362: 2cb Experiences & Acquisition
+     │              │         │         │    │    │    │         ├─■──2cb sourcing and information ── Topic: 180
+     │              │         │         │    │    │    │         └─■──Trying & User Experiences ── Topic: 191
+     │              │         │         │    │    │    └─■──General Interest & Enthusiasm ── Topic: 213
+     │              │         │         │    │    └─Node 349: Project Management Career Exploration
+     │              │         │         │    │         ├─Node 329: Hidden Services & Requests
+     │              │         │         │    │         │    ├─■──Darknet Freelance Services & Work ── Topic: 101
+     │              │         │         │    │         │    └─■──Looking for something needed ── Topic: 196
+     │              │         │         │    │         └─Node 304: Assistance & Common Queries
+     │              │         │         │    │              ├─■──Requesting Help & Support ── Topic: 160
+     │              │         │         │    │              └─■──Same wondering question thing ── Topic: 104
+     │              │         │         │    └─Node 425: Redundancy & System Resilience
+     │              │         │         │         ├─Node 418: Communication & System Threats
+     │              │         │         │         │    ├─Node 410: Harmful Online Content
+     │              │         │         │         │    │    ├─Node 315: Exploitation & Offensive Content
+     │              │         │         │         │    │    │    ├─■──Malware Hacking Tools Collection ── Topic: 208
+     │              │         │         │         │    │    │    └─■──Explicit gay sexual encounter ── Topic: 197
+     │              │         │         │         │    │    └─Node 379: Social Bonds & Conflict
+     │              │         │         │         │    │         ├─Node 367: Harmful Online Content Analysis
+     │              │         │         │         │    │         │    ├─■──Meaning & Understanding Issues ── Topic: 220
+     │              │         │         │         │    │         │    └─Node 345: Offensive & Explicit Content
+     │              │         │         │         │    │         │         ├─Node 324: Aggressive Online Expression
+     │              │         │         │         │    │         │         │    ├─■──Online Humor & "Lol" ── Topic: 22
+     │              │         │         │         │    │         │         │    └─■──Violent, ranting, ex-convict aggression ── Topic: 106
+     │              │         │         │         │    │         │         └─■──Explicit and violent rap lyrics ── Topic: 130
+     │              │         │         │         │    │         └─■──Missed place, agreement, camaraderie ── Topic: 168
+     │              │         │         │         │    └─Node 283: Employee Recognition & Transitions
+     │              │         │         │         │         ├─■──Positive Work Feedback ── Topic: 23
+     │              │         │         │         │         └─■──Welcome & Retirement Wishes ── Topic: 138
+     │              │         │         │         └─Node 421: Online Threat Vectors
+     │              │         │         │              ├─Node 419: Darknet Marketplace Investigations
+     │              │         │         │              │    ├─Node 407: Dark Web Marketplaces & Security
+     │              │         │         │              │    │    ├─Node 368: Secure Communication & Data
+     │              │         │         │              │    │    │    ├─Node 320: Data Retention & Risk
+     │              │         │         │              │    │    │    │    ├─■──Archived Orders & Deletion Risks ── Topic: 171
+     │              │         │         │              │    │    │    │    └─■──Vendor data storage & risks ── Topic: 190
+     │              │         │         │              │    │    │    └─Node 358: Protective Measures & Analysis
+     │              │         │         │              │    │    │         ├─■──OPSEC and Link Analysis ── Topic: 109
+     │              │         │         │              │    │    │         └─■──Safety and Risk Assessment ── Topic: 121
+     │              │         │         │              │    │    └─Node 398: Dark Web Marketplaces & Donations
+     │              │         │         │              │    │         ├─Node 333: HugBunter Activity & Outreach
+     │              │         │         │              │    │         │    ├─■──Hugbunter Donation & Drugs Offer ── Topic: 199
+     │              │         │         │              │    │         │    └─■──HugBunter private site success ── Topic: 166
+     │              │         │         │              │    │         └─Node 390: Dark Web Marketplaces
+     │              │         │         │              │    │              ├─Node 357: Manipulative Content & Spam
+     │              │         │         │              │    │              │    ├─■──Obvious Shill Alert & Posts ── Topic: 140
+     │              │         │         │              │    │              │    └─■──Olympus Spam & Dread ── Topic: 155
+     │              │         │         │              │    │              └─Node 389: Dark Web Commerce & Verification
+     │              │         │         │              │    │                   ├─Node 372: Dark Web Marketplaces
+     │              │         │         │              │    │                   │    ├─■──Silk Road Market Scams ── Topic: 175
+     │              │         │         │              │    │                   │    └─■──Alphabay & Agora Markets ── Topic: 218
+     │              │         │         │              │    │                   └─Node 381: Fraudulent Transaction Issues
+     │              │         │         │              │    │                        ├─■──OC Scammer & Disputes ── Topic: 225
+     │              │         │         │              │    │                        └─■──Lack of Proof/Evidence ── Topic: 181
+     │              │         │         │              │    └─Node 282: Dream State Exploration
+     │              │         │         │              │         ├─■──Dream Alt Market Concerns ── Topic: 82
+     │              │         │         │              │         └─■──Exploring the Nature of Dreams ── Topic: 107
+     │              │         │         │              └─Node 319: Phishing & Reporting Procedures
+     │              │         │         │                   ├─■──Phishing Links & Attacks ── Topic: 169
+     │              │         │         │                   └─■──Suspected Phishing Incident ── Topic: 202
+     │              │         │         └─Node 429: User & Vendor Identification
+     │              │         │              ├─Node 428: Claim Evaluation & Resolution
+     │              │         │              │    ├─Node 400: Personal Pronoun Variations
+     │              │         │              │    │    ├─Node 382: Illicit Online Commerce Offers
+     │              │         │              │    │    │    ├─■──Darknet market vendor offers ── Topic: 162
+     │              │         │              │    │    │    └─Node 371: Darknet Marketplace Logistics
+     │              │         │              │    │    │         ├─■──Darknet market reviews & requests ── Topic: 20
+     │              │         │              │    │    │         └─■──Darknet vendor distribution methods ── Topic: 99
+     │              │         │              │    │    └─Node 306: Illicit Market Activities
+     │              │         │              │    │         ├─■──Cannabis sales and delivery ── Topic: 105
+     │              │         │              │    │         └─■──Dark web vendor complaints ── Topic: 123
+     │              │         │              │    └─Node 417: Access & Resolution Process
+     │              │         │              │         ├─Node 326: Community Access & Support
+     │              │         │              │         │    ├─■──Libertas Community & Discussion ── Topic: 184
+     │              │         │              │         │    └─■──CGMC Invite Codes Request ── Topic: 122
+     │              │         │              │         └─Node 415: Substance Cost & Effects
+     │              │         │              │              ├─Node 409: International Tobacco Trade Compliance
+     │              │         │              │              │    ├─Node 338: Packaging & Fulfillment Quality
+     │              │         │              │              │    │    ├─■──Vendor Quality & Processing Times ── Topic: 165
+     │              │         │              │              │    │    └─■──Vacuum Seal & Mylar Stealth ── Topic: 215
+     │              │         │              │              │    └─Node 408: Plant Varieties & Commerce
+     │              │         │              │              │         ├─Node 313: Cannabis Product Selection
+     │              │         │              │              │         │    ├─■──Cannabis Seeds & Clones ── Topic: 151
+     │              │         │              │              │         │    └─■──Cannabis Strains & Pricing ── Topic: 212
+     │              │         │              │              │         └─Node 397: International Tobacco & Liquids
+     │              │         │              │              │              ├─Node 393: Financial & Retail Trends
+     │              │         │              │              │              │    ├─Node 385: Holiday Promotional Products
+     │              │         │              │              │              │    │    ├─■──Vendy's Twelve Days of Christmas ── Topic: 158
+     │              │         │              │              │              │    │    └─■──Dutyfreesmoking Cigarettes & Tobacco ── Topic: 222
+     │              │         │              │              │              │    └─Node 356: Digital Asset Valuation
+     │              │         │              │              │              │         ├─■──Product & Service Pricing ── Topic: 95
+     │              │         │              │              │              │         └─■──Bitcoin Price Bearish Trend ── Topic: 216
+     │              │         │              │              │              └─Node 352: Ketamine Pricing & Promotions
+     │              │         │              │              │                   ├─■──Sale with 10-15% Bonus ── Topic: 200
+     │              │         │              │              │                   └─■──Liquid Ketamine Price List ── Topic: 114
+     │              │         │              │              └─Node 399: Illicit Substance Involvement
+     │              │         │              │                   ├─Node 392: Community Fire Risk Assessment
+     │              │         │              │                   │    ├─Node 391: Radical Life Changes
+     │              │         │              │                   │    │    ├─Node 384: Ethics and Legality
+     │              │         │              │                   │    │    │    ├─■──Breaking Bad Characters & Law ── Topic: 157
+     │              │         │              │                   │    │    │    └─■──Good Idea & Suggestions ── Topic: 187
+     │              │         │              │                   │    │    └─■──Burn House, Move Belize ── Topic: 207
+     │              │         │              │                   │    └─■──Participate & Count Interest ── Topic: 194
+     │              │         │              │                   └─Node 395: Ecstasy & Bird Giveaways
+     │              │         │              │                        ├─Node 394: Recreational Substance Discussions
+     │              │         │              │                        │    ├─■──420 culture and slang ── Topic: 198
+     │              │         │              │                        │    └─■──MDMA Mama Aqua Request ── Topic: 206
+     │              │         │              │                        └─Node 380: Social Media Promotions & Content
+     │              │         │              │                             ├─■──Pelican Bigbird Love & Sounds ── Topic: 146
+     │              │         │              │                             └─■──TREESOFFICIAL Giveaway Campaign ── Topic: 150
+     │              │         │              └─Node 273: Vendor Profile Customization
+     │              │         │                   ├─■──Vendor Flair & Badges ── Topic: 179
+     │              │         │                   └─■──Vendor Flair Added ── Topic: 192
+     │              │         └─Node 403: Feedback & Image Data
+     │              │              ├─Node 261: Review Sentiment & Validation
+     │              │              │    ├─■──Fake Review Detection ── Topic: 227
+     │              │              │    └─■──Positive Review Feedback & Thanks ── Topic: 19
+     │              │              └─Node 347: Image Submission & Privacy
+     │              │                   ├─Node 241: Visual Content Submissions
+     │              │                   │    ├─■──Request for Pictures/Photos ── Topic: 147
+     │              │                   │    └─■──Review with Pictures/Pics ── Topic: 161
+     │              │                   └─■──Tails Photo Upload & Obfuscation ── Topic: 93
+     │              └─Node 369: Private Message Management & Security
+     │                   ├─Node 267: PM Link Requests
+     │                   │    ├─■──Request Working Link PM ── Topic: 156
+     │                   │    └─■──Requesting a PM Link ── Topic: 111
+     │                   └─Node 240: Private Communication & Security
+     │                        ├─■──Private Message Requests ── Topic: 57
+     │                        └─■──PM & Possible Scams ── Topic: 223
+     └─Node 232: PGP Signature Block
+          ├─Node 229: PGP Message Authentication & Signing
+          │    ├─■──PGP Signed Messages & Signatures ── Topic: 92
+          │    └─Node 228: PGP Signature & Verification
+          │         ├─■──PGP Signed Messages & Vendor ── Topic: 153
+          │         └─■──PGP SHA512 Signature Verification ── Topic: 177
+          └─Node 230: PGP Trust & Verification
+               ├─■──PGP vendor badge requests ── Topic: 72
+               └─■──PGP Signed Message Verification ── Topic: 176
